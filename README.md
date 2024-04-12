@@ -1,8 +1,8 @@
 Welcome to,
 
-#🏆 Freestyle Fanatics 🏆
+# 🏆 Freestyle Fanatics 🏆
 
-##Table of Contents
+## Table of Contents
 1. UX
 
   * Project Goals  
@@ -33,5 +33,9 @@ Welcome to,
   * Code
   * Acknowledgements
 
+## UX
 
+### Project Goals
+
+The primary goal of Freestyle_dance is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
 
