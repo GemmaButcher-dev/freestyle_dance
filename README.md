@@ -33,6 +33,8 @@ Welcome to,
   * Code
   * Acknowledgements
 
+------
+
 ## UX
 
 ### Project Goals
@@ -52,11 +54,22 @@ Dancers goals are:
 
 Freestyle Fanatics can help dancers meet these goals by:
 
-  * Provide appropriate links to external sites and signposting
-  * Providing a simple and clear navigation bar
+  * Provide relevant inforamtion and links all in one website
+  * Providing a simple and clear navigation bar.
+  * Gives dnacers all information about freestlye dance.
   * Engaging images to allow dancer to know they have found the site for the 
     correct genre.
-  * Same theme and layou for all pages.
+  * Same theme and layout for all pages.
   * Use a maximum of 3 clicks from start to end goal to minimise cognitive 
     overload.
   * The feel is engaging and informative.
+  * 
+
+#### User Story
+
+As a current or aspiring freestyle dancer i need to.
+  * find information about the freestyle dance genre.
+  * find where i can to learn to dance and who is qualified.
+  * learn about competitions and what is required to compete.
+  * locate costume suppliers.
+  * be informed of regulatory associations.
