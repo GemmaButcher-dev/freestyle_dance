@@ -49,13 +49,14 @@ Dancers and guardian goals are:
   * Navigate way around site easily.
   * Easily follow links to signposted pages.
   * Find the site informative, fun and engaging.
-  * Know what the next steps tot ake are.
+  * Know what the next steps to take are.
+  * Inform parents of the website for them to assess the information.
 
 Freestyle Fanatics can help dancers meet these goals by:
 
-  * Provide relevant inforamtion and links all in one website
+  * Providing relevant information and links all in one website.
   * Providing a simple and clear navigation bar.
-  * Gives dancers information about freestlye dance and revelant associated information.
+  * Give dancers information about freestlye dance and revelant associated information.
   * Engaging images to allow dancer to know they have found the site for the 
     correct genre.
   * Same theme and layout for all pages.
@@ -71,3 +72,9 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
   * Learn about competitions and what is required to compete.
   * Locate costume and accessory suppliers.
   * Be informed of regulatory associations.
+
+## Features
+
+### Current Features
+
+  * Mobile first design fully responsive.
