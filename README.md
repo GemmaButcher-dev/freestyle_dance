@@ -73,6 +73,21 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
   * Locate costume and accessory suppliers.
   * Be informed of regulatory associations.
 
+
+## Design
+
+### Colour Scheme
+
+  * Four colours will be used throughout the site to create a theme.
+
+### Typography
+
+  * The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+
+  ### Imagery
+
+  * Imagery is key ot immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic energy.
+
 ## Features
 
 ### Current Features
