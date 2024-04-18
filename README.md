@@ -84,7 +84,7 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
 
 #### Typography
 
-  * The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+  * The Poppins font will be the main font used for the website on a whole and Sans Serif is to be used as a fallback font should for any reason the Poppins google font not load correctly to the website. Poppins is a crisp clear font that has rounded features that adds flow and creativity whilst having a corporate edge.
 
 #### Imagery
 
