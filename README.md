@@ -76,6 +76,8 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
 
 ### Design
 
+  * Single column mobile first responsive design.
+
 #### Colour Scheme
 
   * Four colours will be used throughout the site to create a theme.
@@ -103,7 +105,7 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
 
 ### Frameworks, Programs and Libraries Used
 
-1. Bootstrap 4.4.1:
+1. Bootstrap 4.3.1:
    Bootstrap was used to assist with the responsiveness and styling of the website.
 2. Hover.css:
    Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
