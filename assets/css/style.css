@@ -1,9 +1,26 @@
 body {
     font-family: 'Poppins', sans-serif;
+    
+}
+
+.hero {
+    height: 100vh;
+
+    background-image: url('../images/hero_dancer.jpeg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    
 }
 
 .welcome-container {
-
 }
 
 .about-container {
@@ -12,4 +29,26 @@ body {
 
 .what-comp-container {
     
+}
+
+/* Navbar */
+
+.navbar {
+    background-color: #c3a3a1!important;
+    
+}
+
+.nav-item a {
+    color: black !important;
+    font-weight: 500;
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    background color: rgba;
+}
+
+.jumbotron h1 {
+     color: white;
 }
