@@ -80,7 +80,9 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
 
 #### Colour Scheme
 
-  * Four colours will be used throughout the site to create a theme.
+  * Four colours will be used in addition to black and white throughout the site to create a theme. The colour pallette was picked from the hero image on the home page. This should carry the site identity across all pages.
+
+![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](assets/images/colour_pallette.png "color pallette freestyle fanatics")
 
 #### Typography
 
