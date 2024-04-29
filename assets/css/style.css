@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    
+    background-color: #c3a3a1;
 }
 
 .hero {
@@ -17,24 +17,30 @@ body {
     justify-content: center;
 
     position: relative;
+
+    padding-left: 0px;
+    padding-right: 0px;
     
 }
 
 .welcome-container {
+    background-color: #3071b6;
 }
 
 .about-container {
+    background-color: #3071b6;
 
 }
 
 .what-comp-container {
+    background-color: #3071b6;
     
 }
 
 /* Navbar */
 
 .navbar {
-    background-color: #c3a3a1!important;
+    background-color: #3fb7d2!important;
     
 }
 
@@ -46,7 +52,8 @@ body {
 /* Jumbotron */
 
 .jumbotron {
-    background color: rgba;
+    background-color: rgba(0, 0, 0, 0.5);
+
 }
 
 .jumbotron h1 {
