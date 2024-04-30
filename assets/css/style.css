@@ -4,7 +4,7 @@ body {
 }
 
 .hero {
-    height: 100vh;
+    height: 65vh;
 
     background-image: url('../images/hero_dancer.jpeg');
     -webkit-background-size: cover;
@@ -17,36 +17,44 @@ body {
     justify-content: center;
 
     position: relative;
-
-    padding: 0px, 0px, 15px, 0px !important;
     
 }
 
-.welcome-container {
-    background-color: #3071b6;
-    margin-top: 15px;
-    padding: 15px
+.callout-container {
+    padding: 0px;
 }
 
-.welcome-container h1,
-.about-container h2,
-.who-container h2 {
-    text-align: center;
+.welcome-container {
+    background-color: #3fb7d2;
+    margin: 15px 30px 25px 15px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px #4f352b ;
 }
 
 .about-container {
-   background-color: #3071b6;
-    margin-top: 15px;
-    padding: 15px
+    background-color: #3fb7d2;
+    margin: 15px 30px 25px 15px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px #4f352b ;
 
 }
 
 .who-container {
-    background-color: #3071b6;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    padding: 15px
+    background-color: #3fb7d2;
+    margin: 15px 30px 25px 15px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px #4f352b ;
 
+}
+
+.jumbotron h1,
+.welcome-container h1,
+.about-container h2,
+.who-container h2 {
+    text-align: center;
 }
 
 /* Navbar */
