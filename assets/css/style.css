@@ -50,24 +50,19 @@ body {
 
 }
 
-.jumbotron h1,
-.welcome-container h1,
-.about-container h2,
-.who-container h2 {
-    text-align: center;
-}
-
 /* Navbar */
 
 .navbar {
-    background-color: #3fb7d2!important;
+    background-color: #3071b6!important;
+    color: white !important;
     
 }
 
 .nav-item a {
-    color: black !important;
+    color: white !important;
     font-weight: 500;
 }
+
 
 /* Jumbotron */
 
@@ -79,7 +74,32 @@ body {
 .jumbotron h1 {
      color: white;
 }
+ 
+  /* Special texts/ margins/paddings */
+
+  .jumbotron h1,
+  .welcome-container h1,
+  .about-container h2,
+  .who-container h2 {
+      text-align: center;
+  }
 
 .uppercase {
-    
+    text-transform: uppercase;
+
 }
+
+  /* Footer */
+
+footer {
+    background-color: #3071b6;
+    color: white;
+    min-height: 120px;
+}
+
+.fb-icon,
+.adfp,
+.copyright {
+    margin-top: 30px;
+}
+
