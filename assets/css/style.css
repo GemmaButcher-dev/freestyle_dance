@@ -103,3 +103,14 @@ footer {
     margin-top: 30px;
 }
 
+   /* Contact */
+
+.contact-container {
+    background-color: #3fb7d2;
+    margin: 15px 30px 25px 15px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px #4f352b ;
+}
+
+/* Contact form */
