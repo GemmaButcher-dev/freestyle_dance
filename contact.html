@@ -39,42 +39,40 @@
       </div>
     </nav>
     <!--/.nav -->
-    
-    <!-- contact callout-->
-  <div class="welcome-container container-fluid">
 
-    <section class="welcome">
-      <h1>Contact Us</h1>
-      <p>Hello and welcome to everything you need to know about <strong>freestyle</strong>. You will find everything 
-         you need to begin your journey right here.</p>
-
-    </section>
-  </div>
-
-    <!-- /.contact callout -->
     <!-- contact form -->
-    <div class="contact-container container-fluid">
-    
-      <form class ="contact-us" action="https://formdump.codeinstitute.net/" method="POST">
-        <fieldset>
-        <legend>Your Details:</legend>
-        <label>Name:<input type="text" name="name" size="30" required></label>
-        <br>
-        <label>Email:<input type="email" name="email" size="30" required></label>
-        </br>
-        <label for="hear-about">Where did you find us?</label>
-        <br />
-        <input type="radio" name="find" value="google" checked="checked" /> Google
-        <input type="radio" name="find" value="facebook" checked="checked" /> Facebook
-        <input type="radio" name="find" value="adfp" checked="checked" /> ADFP
-        <input type="radio" name="find" value="refer" checked="checked" /> Parent, Dancer, School
-        <input type="radio" name="find" value="other" checked="checked" /> Other
-        <br>
-        <input type="submit" name="send" value="Send" /> 
-      </fieldset>
-      </form>
 
-    </div>
+    <section class="container-contact">
+      <div class="row contact-form-container">
+          <div class="col">
+              <h3 class="contact-heading text-center">Contact Us</h3>
+              <h5 class="text-center">For further information about freestyle or to get listed onto this site please fill out the form below.</h5>
+
+              <div class="center-form">
+                  <form>
+                      <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required />
+                      <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
+                      <textarea rows="5" name="contactsummary" id="contactsummary" class="form-control" placeholder="Project description" required></textarea>
+                      <label for="hear-about">Where did you find us?</label>
+                      <br />
+                      <input type="radio" name="find" value="google" checked="checked" /> Google
+                      <input type="radio" name="find" value="facebook" checked="checked" /> Facebook
+                      <input type="radio" name="find" value="adfp" checked="checked" /> ADFP
+                      <input type="radio" name="find" value="refer" checked="checked" /> Parent, Dancer, School
+                      <input type="radio" name="find" value="other" checked="checked" /> Other
+                      <br>
+                      <div class="form-row text-center">
+                          <div class="col">
+                              <button type="submit" class="btn btn-secondary btn-contact">Contact Us</button>
+                          </div>
+                      </div>
+                  </form>
+              </div>
+
+          </div>
+      </div>
+
+  </section>
     <!-- /.contact form -->
 </article>
 

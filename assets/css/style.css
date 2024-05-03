@@ -77,10 +77,11 @@ body {
  
   /* Special texts/ margins/paddings */
 
-  .jumbotron h1,
-  .welcome-container h1,
-  .about-container h2,
-  .who-container h2 {
+.jumbotron h1,
+.welcome-container h1,
+.about-container h2,
+.who-container h2,
+.contact-container h1 {
       text-align: center;
   }
 
@@ -103,14 +104,19 @@ footer {
     margin-top: 30px;
 }
 
-   /* Contact */
+   /* Contact Form*/
 
-.contact-container {
+.contact-form-container {
     background-color: #3fb7d2;
     margin: 15px 30px 25px 15px;
     padding: 15px;
     border-radius: 15px;
     box-shadow: 10px 10px #4f352b ;
+}
+
+.btn-contact {
+    background-color: #4f352b;
+    color: white;
 }
 
 /* Contact form */
