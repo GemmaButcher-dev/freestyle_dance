@@ -40,7 +40,8 @@ body {
     
 }
 
-.callout-container {
+.callout-container,
+.callout-comp-container {
     padding: 0px;
 }
 
@@ -96,6 +97,11 @@ body {
 .uppercase {
     text-transform: uppercase;
 
+}
+
+.comp-vid-container iframe {
+    display: block;
+    margin: auto;
 }
 
   /* Footer */
