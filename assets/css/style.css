@@ -2,7 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #c3a3a1;
 }
-   /* Homepage hero */
+   /* hero home*/
 
 .hero {
     height: 65vh;
@@ -44,24 +44,12 @@ body {
     padding: 0px;
 }
 
-.welcome-container {
-    background-color: #3fb7d2;
-    margin: 15px 30px 25px 15px;
-    padding: 15px;
-    border-radius: 15px;
-    box-shadow: 10px 10px #4f352b ;
-}
-
-.about-container {
-    background-color: #3fb7d2;
-    margin: 15px 30px 25px 15px;
-    padding: 15px;
-    border-radius: 15px;
-    box-shadow: 10px 10px #4f352b ;
-
-}
-
-.who-container {
+.welcome-container,
+.about-container,
+.what-comp-container,
+.who-container,
+.how-to-comp, 
+.regulations {
     background-color: #3fb7d2;
     margin: 15px 30px 25px 15px;
     padding: 15px;
