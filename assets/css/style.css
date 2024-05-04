@@ -84,20 +84,25 @@ body {
      color: white;
 }
  
-  /* Special texts/ margins/paddings */
+  /* Special texts/ margins/paddings/allignments */
 
 .jumbotron h1,
 .welcome-container h1,
 .about-container h2,
 .who-container h2,
-.contact-container h1 {
+.contact-container h1,
+.how-to-comp h3,
+.about-container h3,
+.what-comp-container h2,
+.regulations h3, 
+.welcome-container p,
+.about-container p,
+.what-comp-container p,
+.who-container p,
+.how-to-comp p, 
+.regulations p {
       text-align: center;
   }
-
-.uppercase {
-    text-transform: uppercase;
-
-}
 
 .comp-vid-container iframe {
     display: block;
