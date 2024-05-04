@@ -2,11 +2,31 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #c3a3a1;
 }
+   /* Homepage hero */
 
 .hero {
     height: 65vh;
 
     background-image: url('../images/hero_dancer.jpeg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    
+}
+
+/* competiton hero */
+
+.hero-comp {
+    height: 65vh;
+
+    background-image: url('../images/trophy_girl.jpeg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
