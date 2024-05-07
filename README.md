@@ -56,7 +56,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * Providing relevant information and links all in one website.
   * Providing a simple and clear navigation bar.
-  * Give dancers information about freestlye dance and revelant associated information.
+  * Give dancers information about freestyle dance and relevant associated information.
   * Engaging images to allow dancer to know they have found the site for the 
     correct genre.
   * Same theme and layout for all pages.
@@ -70,7 +70,6 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
   * Find information about the freestyle dance genre.
   * Find where i can to learn to dance and who is qualified to teach me.
   * Learn about competitions and what is required to compete.
-  * Locate costume and accessory suppliers.
   * Be informed of regulatory associations.
 
 
