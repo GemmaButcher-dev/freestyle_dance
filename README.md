@@ -66,7 +66,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
 #### User Story
 
-As a current or aspiring freestyle dancer or dancer guardian i need to...
+As a current or aspiring freestyle dancer or dancers guardian i need to...
   * Find information about the freestyle dance genre.
   * Find where i can to learn to dance and who is qualified to teach me.
   * Learn about competitions and what is required to compete.
@@ -120,7 +120,5 @@ As a current or aspiring freestyle dancer or dancer guardian i need to...
    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 6. GitHub:
    GitHub is used to store the projects code after being pushed from Git.
-7. Photoshop:
-  Photoshop was used to create the logo, resizing images and editing photos for the website.
-8. Balsamiq:
+7. Balsamiq:
    Balsamiq was used to create the wireframes during the design process.
