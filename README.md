@@ -124,3 +124,11 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
    GitHub is used to store the projects code after being pushed from Git.
 7. Balsamiq:
    Balsamiq was used to create the wireframes during the design process.
+8. Am i responsive?:
+   Am i reponsive was used to create the device mockup in README.md.
+9. ahrefs:
+   ahrefs was used to help generate alt text for images.
+10. Canva:
+   Canva's color pallette generator was used to create a color pallette from the homepage hero image.
+
+## Testing
