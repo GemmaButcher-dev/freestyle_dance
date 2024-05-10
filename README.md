@@ -4,6 +4,8 @@ Welcome to,
 
 ![Electronic devices showing website on screen: computer, tablet, phone.](assets/README_images/freestyle_mockup.png "freestyle fanatics device mockup")
 
+[View the live project here.]()
+
 ## Table of Contents
 1. UX
 
