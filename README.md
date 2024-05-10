@@ -2,7 +2,7 @@ Welcome to,
 
 # 🏆 Freestyle Fanatics 🏆
 
-![Electronic devices showing website on screen: computer, tablet, phone.](assets/images/freestyle_mockup.png "freestyle fanatics device mockup")
+![Electronic devices showing website on screen: computer, tablet, phone.](assets/README_images/freestyle_mockup.png "freestyle fanatics device mockup")
 
 ## Table of Contents
 1. UX
@@ -83,7 +83,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
   * Four colours will be used in addition to black and white throughout the site to create a theme. The colour pallette was picked from the hero image on the home page. This should carry the site identity across all pages.
 
-![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](assets/images/colour_pallette.png "color pallette freestyle fanatics")
+![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](assets/README_images/colour_pallette.png "color pallette freestyle fanatics")
 
 #### Typography
 
