@@ -135,4 +135,8 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
+[HTML Results can be viewed here](assets/README_images/HTML_validator.png)
+[CSS Results can be viewed here](assets/README_images/CSS_validator.png)
+
+
 
