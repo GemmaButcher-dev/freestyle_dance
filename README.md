@@ -103,8 +103,8 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 ### Languages Used
   
-  * HTML5
-  * CSS3
+  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Programs and Libraries Used
 
@@ -136,6 +136,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 [HTML Results can be viewed here](/workspace/freestyle_dance/assets/README_images/HTML_validator.png)
+
 [CSS Results can be viewed here](/workspace/freestyle_dance/assets/README_images/css_validation.png)
 
 
