@@ -7,7 +7,7 @@ body {
 .hero {
     height: 65vh;
 
-    background-image: url('../images/hero_dancer.jpeg');
+    background-image: url('../images/hero_dancer.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -26,8 +26,7 @@ body {
 .hero-comp {
     height: 65vh;
 
-    background-image: url('../images/trophy_girl.jpeg');
-    -webkit-background-size: cover;
+    background-image: url('../images/trophy-girl.png');
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
