@@ -132,3 +132,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
    Canva's color pallette generator was used to create a color pallette from the homepage hero image.
 
 ## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+
