@@ -2,6 +2,8 @@ Welcome to,
 
 # 🏆 Freestyle Fanatics 🏆
 
+![Electronic devices showing website on screen: computer, tablet, phone.](assets/images/freestyle_mockup.png "freestyle fanatics device mockup")
+
 ## Table of Contents
 1. UX
 
