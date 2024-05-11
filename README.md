@@ -80,7 +80,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
   * Be informed of regulatory associations.
 
 
-### Design
+### Design Choices
 
   * Single column mobile first responsive design.
 
@@ -142,15 +142,15 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-[HTML Results can be viewed here](/workspace/freestyle_dance/assets/README_images/HTML_validator.png)
+[HTML Results can be viewed here](assets/README_images/HTML_validator.png)
 
-[CSS Results can be viewed here](/workspace/freestyle_dance/assets/README_images/css_validation.png)
+[CSS Results can be viewed here](assets/README_images/css_validation.png)
 
 ### Accessibility Testing
 
-The complete site was tested using [Accessible Web](https://wave.webaim.org/) and has passed. This can be [viewed here](assets/README_images/webaim.png)
+The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](assets/README_images/webaim.png)
 
 ### Bug Fixes
 
-Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom o the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](assets/README_images/webaim.png) for further details.
+Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](assets/README_images/webaim.png) for further details.
 
