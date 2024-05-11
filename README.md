@@ -24,6 +24,9 @@ Welcome to,
 3. Technologies used
 
 4. Testing
+  * Code Validation
+  * Accessibility Testing
+  * Bug Fixes
 
 5. Deployment
 
@@ -135,11 +138,19 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 ## Testing
 
+### Code Validation
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 [HTML Results can be viewed here](/workspace/freestyle_dance/assets/README_images/HTML_validator.png)
 
 [CSS Results can be viewed here](/workspace/freestyle_dance/assets/README_images/css_validation.png)
 
+### Accessibility Testing
 
+The complete site was tested using [Accessible Web](https://accessibleweb.com/) and has passed.
+
+### Bug Fixes
+
+Bug found where the 
 
