@@ -148,7 +148,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Accessibility Testing
 
-The complete site was tested using [Accessible Web](https://accessibleweb.com/) and has passed.
+The complete site was tested using [Accessible Web](https://wave.webaim.org/) and has passed. This can be [viewed here](assets/README_images/webaim.png)
 
 ### Bug Fixes
 
