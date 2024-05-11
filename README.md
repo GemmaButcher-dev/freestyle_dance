@@ -152,5 +152,5 @@ The complete site was tested using [Accessible Web](https://wave.webaim.org/) an
 
 ### Bug Fixes
 
-Bug found where the 
+Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom o the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](assets/README_images/webaim.png) for further details.
 
