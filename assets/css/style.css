@@ -6,12 +6,12 @@ body {
 body p {
     font-family: 'Roboto', sans-serif;
 }
-   /* hero home*/
+   /* hero styling and backgrounds*/
 
-.hero {
+.hero,
+.hero-comp {
     height: 65vh;
 
-    background-image: url('../images/hero_dancer.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -22,25 +22,6 @@ body p {
     justify-content: center;
 
     position: relative;
-    
-}
-
-/* competiton hero */
-
-.hero-comp {
-    height: 65vh;
-
-    background-image: url('../images/trophy_girl.png');
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-    
 }
 
 .callout-container,
@@ -48,9 +29,17 @@ body p {
     padding: 0px;
 }
 
+.hero {
+    background-image: url('../images/hero_dancer.png');
+}
+
+.hero-comp {
+    background-image: url('../images/trophy_girl.png');
+}
+
 /* div colour styling sitewide */
 
-.teal-brown{
+.teal-brown {
     background-color: #3fb7d2;
     margin: 15px 30px 25px 15px;
     padding: 15px;
@@ -58,11 +47,10 @@ body p {
     box-shadow: 10px 10px #4f352b ; 
 }
 
-/* Navbar */
+/* Navbar (including bootstrap over-rides) */
 
 .navbar {
-    background-color: #3071b6!important;
-    color: white !important;   
+    background-color: #3071b6!important;   
 }
 
 .nav-item a {
@@ -70,12 +58,10 @@ body p {
     font-weight: 500;
 }
 
-
 /* Jumbotron */
 
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.5);
-
 }
 
 .jumbotron h1 {
@@ -87,6 +73,9 @@ body p {
 .comp-vid-container iframe {
     display: block;
     margin: auto;
+    height: auto;
+    width: 70%;
+    min-height: 300px;
 }
 
   /* Footer */
@@ -109,14 +98,6 @@ footer h3{
 }
 
    /* Contact Form*/
-
-.contact-form-container {
-    background-color: #3fb7d2;
-    margin: 15px 30px 25px 15px;
-    padding: 15px;
-    border-radius: 15px;
-    box-shadow: 10px 10px #4f352b ;
-}
 
 .center-form {
     font-family: 'Roboto', sans-serif;
