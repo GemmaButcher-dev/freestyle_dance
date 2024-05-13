@@ -53,7 +53,8 @@ body p {
 .what-comp-container,
 .who-container,
 .how-to-comp, 
-.regulations {
+.regulations,
+.submission {
     background-color: #3fb7d2;
     margin: 15px 30px 25px 15px;
     padding: 15px;
