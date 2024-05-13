@@ -48,27 +48,21 @@ body p {
     padding: 0px;
 }
 
-.welcome-container,
-.about-container,
-.what-comp-container,
-.who-container,
-.how-to-comp, 
-.regulations,
-.submission {
+/* div colour styling sitewide */
+
+.teal-brown{
     background-color: #3fb7d2;
     margin: 15px 30px 25px 15px;
     padding: 15px;
     border-radius: 15px;
-    box-shadow: 10px 10px #4f352b ;
-
+    box-shadow: 10px 10px #4f352b ; 
 }
 
 /* Navbar */
 
 .navbar {
     background-color: #3071b6!important;
-    color: white !important;
-    
+    color: white !important;   
 }
 
 .nav-item a {
