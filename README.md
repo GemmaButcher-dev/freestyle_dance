@@ -92,7 +92,8 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 #### Typography
 
-  * The Poppins font will be the main font used for the website on a whole and Sans Serif is to be used as a fallback font should for any reason the Poppins google font not load correctly to the website. Poppins is a crisp clear font that has rounded features that adds flow and creativity whilst having a corporate edge.
+  * The Poppins font will be the font used for the all headings on the website and Sans Serif is to be used as a fallback font should for any reason the Poppins google font not load correctly to the website. Poppins is a crisp clear font that has rounded features that adds flow and creativity whilst having a corporate edge.
+  * The Roboto font will be the font used for the other text on the website and Sans Serif is to be used as a fallback font should for any reason the Roboto google font not load correctly to the website. Roboto is a sharper font that has less rounded features than Poppins having more of a corporate edge, complimenting the poppins font with increased ease of readability.
 
 #### Imagery
 

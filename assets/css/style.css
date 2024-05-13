@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #c3a3a1;
 }
+
+body p {
+    font-family: 'Roboto', sans-serif;
+}
    /* hero home*/
 
 .hero {
@@ -85,25 +89,6 @@ body {
  
   /* Special texts/ margins/paddings/allignments */
 
-.jumbotron h1,
-.welcome-container h2,
-.about-container h2,
-.who-container h2,
-.contact-container h1,
-.how-to-comp h3,
-.about-container h3,
-.what-comp-container h2,
-.regulations h3, 
-.comp-vid-container h3,
-.welcome-container p,
-.about-container p,
-.what-comp-container p,
-.who-container p,
-.how-to-comp p, 
-.regulations p {
-      text-align: center;
-  }
-
 .comp-vid-container iframe {
     display: block;
     margin: auto;
@@ -136,6 +121,10 @@ footer h3{
     padding: 15px;
     border-radius: 15px;
     box-shadow: 10px 10px #4f352b ;
+}
+
+.center-form {
+    font-family: 'Roboto', sans-serif;
 }
 
 .btn-contact {
