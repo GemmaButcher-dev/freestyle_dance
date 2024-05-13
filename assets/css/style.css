@@ -26,7 +26,7 @@ body {
 .hero-comp {
     height: 65vh;
 
-    background-image: url('../images/trophy-girl.png');
+    background-image: url('../images/trophy_girl.png');
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
@@ -123,7 +123,8 @@ footer {
     margin-top: 30px;
 }
 
-footer h3 {
+footer h2,
+footer h3{
     font-size: medium;
 }
 
@@ -140,4 +141,8 @@ footer h3 {
 .btn-contact {
     background-color: #4f352b;
     color: white;
+}
+
+.contact-form-container p{
+    font-size: large;
 }
