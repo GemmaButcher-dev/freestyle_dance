@@ -89,7 +89,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
   * Four colours will be used in addition to black and white throughout the site to create a theme. The colour pallette was picked from the hero image on the home page. This should carry the site identity across all pages.
 
-![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](assets/README_images/colour_pallette.png "color pallette freestyle fanatics")
+![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](docs/design/color_palette.png "color pallette freestyle fanatics")
 
 #### Typography
 
@@ -145,17 +145,17 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-[HTML Results can be viewed here](assets/README_images/HTML_validator.png)
+[HTML Results can be viewed here](docs/testing)
 
-[CSS Results can be viewed here](assets/README_images/css_validation.png)
+[CSS Results can be viewed here](docs/testing)
 
 ### Accessibility Testing
 
-The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](assets/README_images/webaim.png)
+The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](docs/testing/webaim.png)
 
 ### Bug Fixes
 
-Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](assets/README_images/webaim.png) for further details.
+Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further details.
 
 ### Hero Image Change
 
