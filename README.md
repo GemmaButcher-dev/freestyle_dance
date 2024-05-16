@@ -175,7 +175,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
 1. The primary goal of Freestyle_dance is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
   
   * Upon entering the site there is a clear functioning nav bar at the top of the page with links to the other 
-    site pages that are clearly labelled. There is a clean and crisp hero image lettignthe user know they have found relevant content as a quick glance.
+    site pages that are clearly labelled. There is a clean and crisp hero image lettignthe user know they have found relevant content as a quick glance. 
+  * The clear welcome section below the hero image offers text to reaffirm what the site is about.
   * There are 3 pages each with defined topics that are clear to the user. The user can quickly, easily and 
     conveniently move from section to section with ease to gather required information.
   * There are links to external sites that open in new tabs to keep the navigation simple and clear.
@@ -185,18 +186,39 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The site content could be understood by children 12 years and over and adults alike. 
   * Children under 10 years old may struggle with some aspects of terminology and navigation.
   * The hero images let people of most ages know they are navigating their way around a dancing topic.
+  * The clear welcome section below the hero image offers text to reaffirm what the site is about.
+  * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
+    making it appropriate for the intended audience.
 
 #### Dancers and guardian goals are:
 
 1. Navigate way around site easily.
 
+  * A clean crisp fully functioning navbar ensures this is achieved.
+
 2. Easily follow links to signposted pages.
+  
+  * All links to external signposted pages open in new tabs with the _blank attribute. Links clearly
+    indicate their function and purpose.
 
 3. Find the site informative, fun and engaging.
 
+  * The content is focused on informing what the dance genre is who is able to take part. 
+  * The site offers information on the steps to take in order to compete or dance for fun.
+  * The hero images were chosen 
+  * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
+    making it appropriate for the intended audience.
+
 4. Know what the next steps to take are.
 
+  * The competition page offers information on what is required to be able to take part in competitions and how 
+    to go about it.
+  * External links to the Association of Dance and Freestyle professionals which lists qualified teachers and respective schools. This link is also found in the footer.
+
 5. Easily navigate to the facebook page to follow and interact.
+
+  * There is a link to the facebook page in the footer on all pages.
+  * The link is represented by the standard facebook icon.
 
 #### Freestyle Fanatics can help dancers meet these goals by:
 
