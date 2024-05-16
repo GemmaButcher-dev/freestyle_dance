@@ -1,4 +1,4 @@
-Welcome to,
+Welcome to
 
 # 🏆 Freestyle Fanatics 🏆
 
@@ -116,6 +116,13 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 ### Current Features
 
   * Mobile first design fully responsive.
+  * Hero images on index.html and competition.html.
+  * Navbar and footer used across all pages.
+  * Navbar with toggle button (hamburger) on mobile and tablet devices.
+  * Links to external sites.
+  * Contact form with submission landing page.
+  * iframe with youtube video with player controls.
+  * Favicon in navbar.
 
 ## Technologies Used
 
@@ -167,7 +174,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
   * The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](docs/testing/webaim.png).
   * Some issues were created using the jumbotron to create a hero section. For some reason the only way i could 
-    create the hero image with the jumbotron in front was to use a background images in the jumbotron div css. Whilst this is not best practice for accessibility it has not impacted the score for accessibility which is 100%. 
+    create the hero image with the jumbotron in front was to use a background images in the jumbotron div css. Whilst this is not best practice for accessibility it has not impacted the score for accessibility which is 100%. If i were using the image in the HTML i would add an alt tag to the image to make it accessible. 
 
 ### Bug Fixes
 
