@@ -7,23 +7,26 @@ Welcome to,
 [View the live project here.](https://gemmabutcher-dev.github.io/freestyle_dance/)
 
 ## Table of Contents
-1. UX
+1. [UX]()
 
-  * Project Goals  
-  * Dancer Goals  
-  * Parental Goals   
-  * Developer and Business Goals  
+  * Project Goals
+  * Dancer Goals 
   * User Stories  
-  * Design Choices  
-  * Wireframes  
+  * Design Choices
+  * Wireframes
 
-2. Features
+2. [Features](##Features)
+
   * Existing Features
   * Features left to implement
 
-3. Technologies used
+3. [Technologies used](##Technologies-Used)
 
-4. Testing
+  * Languages Used
+  * Frameworks, Programs and Libraries Used
+
+4. [Testing](##Testing)
+
   * Overall Peformance
   * Code Validation
   * Accessibility Testing
@@ -32,12 +35,13 @@ Welcome to,
   * Testing User Stories from User Experience (UX) Section
   * Further Testing
 
-5. Deployment
+5. [Deployment](##Deployment)
+
   * GitHub Pages
   * Forking the GitHub Repository
   * Making a Local Clone
 
-6. Credits
+6. [Credits](##Credits)
 
   * Content
   * Media
@@ -104,6 +108,8 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 #### Imagery
 
   * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic energy.
+
+### Wireframes
 
 ## Features
 
@@ -348,6 +354,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
   * All content was written by the developer.
   * Canva color pallette picker for generating the brand [color palette](https://www.canva.com/colors/color-palette-generator/)
+
 ### Media
 
   * All images are the property of the developer who holds fully copywrite.
