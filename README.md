@@ -138,7 +138,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 2. Hover.css:
    Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 3. Google Fonts:
-   Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+   Google fonts were used to import the 'Poppins' and 'Roboto' font into the style.css file which is used on all pages throughout the project.
 4. Font Awesome:
    Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 5. jQuery:
