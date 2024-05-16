@@ -208,40 +208,72 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The hero images were chosen 
   * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
     making it appropriate for the intended audience.
+  * The decision was taking to change the hero image on the home page to one where the dancer was smiling in 
+    order to meet this criteria. The colour theme remains unchanged due to the back ground and image colour remaining the same.
+  * The user can engage with the site user by filling out the contact form on the contact page. 
 
 4. Know what the next steps to take are.
 
   * The competition page offers information on what is required to be able to take part in competitions and how 
     to go about it.
-  * External links to the Association of Dance and Freestyle professionals which lists qualified teachers and respective schools. This link is also found in the footer.
+  * External links to the Association of Dance and Freestyle professionals which lists qualified teachers and 
+    respective schools. This link is also found in the footer.
+  * The contact form on the contact page offers users the opportunity to contact the site owner for further 
+    information.
 
 5. Easily navigate to the facebook page to follow and interact.
 
-  * There is a link to the facebook page in the footer on all pages.
+  * There is a link to the facebook page in the footer on all pages allowing the user to navigate to the 
+   facebook page in one click.
+  * The link opens in a new tab for ease of navigation.
   * The link is represented by the standard facebook icon.
 
 #### Freestyle Fanatics can help dancers meet these goals by:
 
 1. Providing relevant information and links all in one website.
 
+  * All relevant links and information is displayed across the three pages.
+  * Links to facebook and the ADFP can be found in the footer on all pages.
+
 2. Providing a simple and clear navigation bar.
 
-3.  Give dancers information about freestyle dance and relevant associated information.
+  * Upon entering the site there is a clear functioning nav bar at the top of the page with links to the other 
+    site pages that are clearly labelled.
+  * The navbar reduces to a "hamburger" icon for mobile and tablet devices maintaining clear navigation.
 
-4. Engaging images to allow dancer to know they have found the site for the 
-    correct genre.
+3. Give dancers information about freestyle dance and relevant associated information.
+  
+  * Information across the site lets the user know what the topic is and how they can become invoved in the 
+    dance genre.
+  * External links provided to associations for further information.
+  * The contact form on the contact page offers the user the opportunity to contact the site owner.
+
+4. Engaging images to allow dancer to know they have found the site for the correct genre.
+  
+  * Hero images are used on both the home page and the contact page to allow the user to know they are viewing 
+    the correct information and in relation to the relevent genre.
+
 5. Same theme and layout for all pages.
+
+  * All pages use the same navbar and footer to maintain site identity and theme.
+  * The same single column layout is used across all pages in line with site theme. 
+  * The same colour scheme and border styling is used for all containers and sections.
 
 6. Use a maximum of 3 clicks from start to end goal to minimise cognitive 
     overload.
 
     * There is no more than 3 click from one point of the site to the end of the navigation to another part of the site. 
-    * Use of a clear navbar and hyperlinks ensure this.
+    * Use of a clear navbar, footer and hyperlinks ensure this.
 
 7. The feel is engaging and informative.
-
-
-
+ 
+    * The hero image provies an immediate user visual stimulation on both the home page and competition page.
+    * There is a youtube iframe video of a freestyle competiton performance on the competition page which 
+      offers engaging visual and audio stimulation that the users has full control over at all times. 
+    * Information accross the site lets the user know what the topic is and how they can become invoved in the 
+      dance genre. 
+    * The contact form on the contact page offers users the opportunity to contact the site owner for further 
+      information.
 
 
 ### Further Testing
