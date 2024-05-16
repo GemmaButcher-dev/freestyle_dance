@@ -24,10 +24,13 @@ Welcome to,
 3. Technologies used
 
 4. Testing
+  * Overall Peformance
   * Code Validation
   * Accessibility Testing
   * Bug Fixes
   * Hero Image Change
+  * Testing User Stories from User Experience (UX) Section
+  * Further Testing
 
 5. Deployment
 
@@ -141,6 +144,10 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 ## Testing
 
+### Overall Peformance
+
+The complte site was tested on lighthouse to assess the overall performance of the site. You can see the results [here](docs/testing/lighthouse_test.png)
+
 ### Code Validation
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -160,3 +167,12 @@ Bug found where the bootstrap navbar would expand but not compress back down. Th
 ### Hero Image Change
 
 A change in hero image on the homepage was made with the same colour theme as i feel the updated image is more fun and engaging than the original.
+
+### Testing User Stories from User Experience (UX) Section
+
+### Further Testing
+
+* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+* The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+* A large amount of testing was done to ensure that all pages were linking correctly.
+* Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
