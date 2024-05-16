@@ -54,7 +54,7 @@ Welcome to
 
 ### Project Goals
 
-The primary goal of Freestyle_dance is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
+The primary goal of Freestyle Fanatics is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
 
 #### Dancer Goals
 
@@ -113,7 +113,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 ## Features
 
-### Current Features
+### Existing Features
 
   * Mobile first design fully responsive.
   * Hero images on index.html and competition.html.
@@ -122,7 +122,11 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
   * Links to external sites.
   * Contact form with submission landing page.
   * iframe with youtube video with player controls.
-  * Favicon in navbar.
+  * [Favicon](assets/favicon_images/apple_touch_icon.png) in browser bar.
+
+### Features Left To Implement
+
+  * A suppliers page with a directory to add functionality for the user.
 
 ## Technologies Used
 
@@ -135,13 +139,11 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 1. Bootstrap 4.3.1:
    Bootstrap was used to assist with the responsiveness and styling of the website.
-2. Hover.css:
-   Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-3. Google Fonts:
+2. Google Fonts:
    Google fonts were used to import the 'Poppins' and 'Roboto' font into the style.css file which is used on all pages throughout the project.
-4. Font Awesome:
+3. Font Awesome:
    Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-5. jQuery:
+4. jQuery:
    jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 5. Git
    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
@@ -184,13 +186,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Hero Image Change
 
-A change in hero image on the homepage was made with the same colour theme as i feel the updated image is more fun and engaging than the original.
+A change in hero image on the homepage was made with the same colour theme as i feel the updated image is more fun and engaging than the original meeting the user story and UX design criteria.
 
 ### Testing User Stories from User Experience (UX) Section
 
 #### Project Goals
 
-1. The primary goal of Freestyle_dance is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
+1. The primary goal of Freestyle Fanatics is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
   
   * Upon entering the site there is a clear functioning nav bar at the top of the page with links to the other 
     site pages that are clearly labelled. There is a clean and crisp hero image lettignthe user know they have found relevant content as a quick glance. 
