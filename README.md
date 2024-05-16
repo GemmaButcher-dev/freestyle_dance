@@ -52,7 +52,9 @@ Welcome to
 
 ## UX
 
-### Project Goals
+### User Stories
+
+#### Project Goals
 
 The primary goal of Freestyle Fanatics is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
 
@@ -65,8 +67,11 @@ Dancers and guardian goals are:
   * Navigate way around site easily.
   * Easily follow links to signposted pages.
   * Find the site informative, fun and engaging.
-  * Know what the next steps to take are.
+  * Know what the next steps to take are to learn to dance or compete and who is qualified to teach me.
   * Easily navigate to the facebook page to follow and interact.
+  * Be able to contact the site owner.
+  * To be informed of and able to locate regulatory associations. 
+  * Be able to see a video example of freestyle dancing.
 
 Freestyle Fanatics can help dancers meet these goals by:
 
@@ -80,15 +85,6 @@ Freestyle Fanatics can help dancers meet these goals by:
     overload.
   * The feel is engaging and informative.
   * Using a Favicon on all pages.
-
-#### User Story
-
-As a current or aspiring freestyle dancer or dancers guardian i need to...
-  * Find information about the freestyle dance genre.
-  * Find where i can to learn to dance and who is qualified to teach me.
-  * Learn about competitions and what is required to compete.
-  * Be informed of regulatory associations.
-
 
 ### Design Choices
 
@@ -130,6 +126,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 ### Features Left To Implement
 
   * A suppliers page with a directory to add functionality for the user.
+  * A downloadable ADFP competition rule book. (Not yet released by the Association. Due December 2024)
 
 ## Technologies Used
 
@@ -165,7 +162,7 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 
 ### Overall Peformance
 
-The complte site was tested on lighthouse to assess the overall performance of the site. You can see the results [here](docs/testing/lighthouse_test.png)
+The complete site was tested on the lighthouse facility in Google Developer Tools to assess the overall performance of the site. The site meets the pass criteria and you can see the results [here](docs/testing/lighthouse_test.png)
 
 ### Code Validation
 
@@ -183,7 +180,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Bug Fixes
 
-  * Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further   details.
+  * Bug found where the bootstrap navigation bar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further details.
   * There is a bug on the submit button on the contact form in contact.html. There is an active class that when 
     the button is clicked it changes colour even if all the required fields are not filled out and the form 'sent'. I have logged this issue with bootstrap as it appears it cant be overridden and is an error at bootstrap. It does not seem to effect the submission of the form itself and is more of an aesthetic and design issue to be rectified.
 
@@ -219,10 +216,11 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 1. Navigate way around site easily.
 
-  * A clean crisp fully functioning navbar ensures this is achieved.
-  * There is a clear crisp footer which is the same across all pages which can be viewed [here](docs/testing/footer_screenshot.png)
-  * The use of a favicon on all pages lets the user know they are still on the correct site.
+  * Upon entering the site there is a  clean, crisp and fully functioning navigation bar that ensures this is achieved.
+  * There is a clear and crisp footer which is the same across all pages which can be viewed [here](docs/testing/footer_screenshot.png)
+  * The use of a favicon on all pages lets the user know they are still navigating arouund the correct site.
   * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload.
+  * All links open in a new tab for ease of navigation.
 
 2. Easily follow links to signposted pages.
   
@@ -233,31 +231,45 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 3. Find the site informative, fun and engaging.
 
-  * The content is focused on informing what the dance genre is who is able to take part. 
+  * The content is focused on informing what the freestyle dance genre is and who is able to dance for fun or take part in competitions. 
   * The site offers information on the steps to take in order to compete or dance for fun.
-  * The hero images were chosen 
+  * The hero images were chosen to meet engagement needs and add an element of fun. 
   * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
     making it appropriate for the intended audience.
-  * The decision was taking to change the hero image on the home page to one where the dancer was smiling in 
-    order to meet this criteria. The colour theme remains unchanged due to the back ground and image colour remaining the same.
-  * The user can engage with the site user by filling out the contact form on the contact page which can be 
+  * The decision was made to change the hero image on the home page to one where the dancer was smiling in 
+    order to meet this criteria of the site being fun. The colour theme remains unchanged due to the back ground and image colour remaining the same.
+  * The user can engage with the site and request further information by filling out the contact form on the contact page which can be 
     viewed [here](docs/testing/contact_form_screenshot.png)
 
-4. Know what the next steps to take are.
-
+4. Know what the next steps to take are to learn to dance or compete.
+  
+  * Information about what the dance genre is and who can take part is found on index.html.
   * The competition page offers information on what is required to be able to take part in competitions and how 
     to go about it.
-  * External links to the Association of Dance and Freestyle professionals which lists qualified teachers and 
-    respective schools. This link is also found in the footer.
-  * The contact form on the contact page offers users the opportunity to contact the site owner for further 
-    information.
+  * External links to the ADFP which lists qualified teachers and respective schools. This link is also found in the footer on all pages.
+  * The contact form on the contact page offers users the opportunity to contact the site owner for further information.
 
 5. Easily navigate to the facebook page to follow and interact.
 
   * There is a link to the facebook page in the footer on all pages allowing the user to navigate to the 
-   facebook page in one click.
+    facebook page in one click.
   * The link opens in a new tab for ease of navigation.
   * The link is represented by the standard facebook icon.
+
+6. Be able to contact the site owner.
+  
+  * There is a contact form on contact.html page that allows user to contact site owner. Successful submission of the form 
+    will lead to the submission.html page. This page automatically redirects back to the home page after 10 seconds to reduce cognitive overload. 
+
+7. To be informed of and able to locate regulatory associations.
+
+  * Links to the regulatory association (ADFP) can be found in the footer in all pages and in hyperlinks in the copy where relevant. The association and its 
+    abbreviation is explained.
+
+8. Be able to see a video example of freestyle dancing.
+
+  * The iframe on the competition.html page is a youtube video of a competition in action showcasing the style and genre of dance and what a competition is like.
+    
 
 #### Freestyle Fanatics can help dancers meet these goals by:
 
@@ -282,12 +294,12 @@ A change in hero image on the homepage was made with the same colour theme as i 
 4. Engaging images to allow dancer to know they have found the site for the correct genre.
   
   * Hero images are used on both the home page and the contact page to allow the user to know they are viewing 
-    the correct information and in relation to the relevent genre.
+    the correct information and content in relation to the relevent dance genre.
   * The favicon aids site identity for the user.
 
 5. Same theme and layout for all pages.
 
-  * All pages use the same navbar and footer to maintain site identity and theme.
+  * All pages use the same navigation bar and footer to maintain site identity and theme.
   * The same single column layout is used across all pages in line with site theme. 
   * The same colour scheme and border styling is used for all containers and sections.
   * The site Favicon is used on all pages.
@@ -296,13 +308,13 @@ A change in hero image on the homepage was made with the same colour theme as i 
     overload.
 
     * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
-    * Use of a clear navbar, footer and hyperlinks ensure this.
+    * Use of a clear navigation bar, footer and hyperlinks ensure this.
     * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload  
       and automatically reducing the need for an additional button or link to.
 
 7. The feel is engaging and informative.
  
-    * The hero image provies an immediate user visual stimulation on both the home page and competition page.
+    * The hero image provies an immediate visual stimulation on both the home page and competition page.
     * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/testing/iframe_screenshot.png)
     * Information across the site lets the user know what the topic is and how they can become invoved in the 
       dance genre. 
