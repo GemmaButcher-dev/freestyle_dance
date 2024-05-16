@@ -170,6 +170,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 ### Testing User Stories from User Experience (UX) Section
 
+
+
 ### Further Testing
 
 * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
