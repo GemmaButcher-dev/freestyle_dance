@@ -181,8 +181,6 @@ A change in hero image on the homepage was made with the same colour theme as i 
     conveniently move from section to section with ease to gather required information.
   * There are links to external sites that open in new tabs to keep the navigation simple and clear.
 
-  ![mobile device showing website on screen](docs/testing/navbar_screenshot.png "freestyle fanatics device mockup")
-
 2. The main target audeince for this website is dancers aged 12. and over.
 
   * The site content could be understood by children 12 years and over and adults alike. 
@@ -192,16 +190,21 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
     making it appropriate for the intended audience.
 
+    ![mobile device showing website on screen](docs/testing/navbar_screenshot.png "freestyle fanatics device mockup")
+
 #### Dancers and guardian goals are:
 
 1. Navigate way around site easily.
 
   * A clean crisp fully functioning navbar ensures this is achieved.
+  * There is a clear crisp footer which is the same across all pages which can be viewed [here](docs/testing/footer_screenshot.png)
 
 2. Easily follow links to signposted pages.
   
   * All links to external signposted pages open in new tabs with the _blank attribute. Links clearly
-    indicate their function and purpose.
+    indicate their function and purpose. 
+  * Links are located in the copy and footer.
+
 
 3. Find the site informative, fun and engaging.
 
@@ -212,7 +215,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
     making it appropriate for the intended audience.
   * The decision was taking to change the hero image on the home page to one where the dancer was smiling in 
     order to meet this criteria. The colour theme remains unchanged due to the back ground and image colour remaining the same.
-  * The user can engage with the site user by filling out the contact form on the contact page. 
+  * The user can engage with the site user by filling out the contact form on the contact page which can be viewed [here](docs/testing/contact_form_screenshot.png)
 
 4. Know what the next steps to take are.
 
@@ -270,8 +273,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
 7. The feel is engaging and informative.
  
     * The hero image provies an immediate user visual stimulation on both the home page and competition page.
-    * There is a youtube iframe video of a freestyle competiton performance on the competition page which 
-      offers engaging visual and audio stimulation that the users has full control over at all times. 
+    * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/testing/iframe_screenshot.png)
     * Information accross the site lets the user know what the topic is and how they can become invoved in the 
       dance genre. 
     * The contact form on the contact page offers users the opportunity to contact the site owner for further 
