@@ -335,3 +335,25 @@ $ git clone https://github.com/GemmaButcher-dev/freestyle_dance.git
 ```
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+## Credits
+
+### Code
+
+  * [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+  * [Google Developer Tools](https://developer.chrome.com/docs/devtools) : For problem solving and managing css overrides. 
+
+### Content
+
+  * All content was written by the developer.
+  * Canva color pallette picker for generating the brand [color palette](https://www.canva.com/colors/color-palette-generator/)
+### Media
+
+  * All images are the property of the developer who holds fully copywrite.
+  * Iframe video is the property of youtube.
+
+### Acknowledgements
+
+  * My Mentor for continuous helpful feedback.
+  * Tutor support at Code Institute for their support.
