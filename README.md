@@ -61,7 +61,7 @@ Dancers and guardian goals are:
   * Easily follow links to signposted pages.
   * Find the site informative, fun and engaging.
   * Know what the next steps to take are.
-  * Inform parents of the website for them to assess the information.
+  * Easily navigate to the facebook page to follow and interact.
 
 Freestyle Fanatics can help dancers meet these goals by:
 
@@ -169,6 +169,56 @@ Bug found where the bootstrap navbar would expand but not compress back down. Th
 A change in hero image on the homepage was made with the same colour theme as i feel the updated image is more fun and engaging than the original.
 
 ### Testing User Stories from User Experience (UX) Section
+
+#### Project Goals
+
+1. The primary goal of Freestyle_dance is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
+  
+  * Upon entering the site there is a clear functioning nav bar at the top of the page with links to the other 
+    site pages that are clearly labelled. There is a clean and crisp hero image lettignthe user know they have found relevant content as a quick glance.
+  * There are 3 pages each with defined topics that are clear to the user. The user can quickly, easily and 
+    conveniently move from section to section with ease to gather required information.
+  * There are links to external sites that open in new tabs to keep the navigation simple and clear.
+
+2. The main target audeince for this website is dancers aged 12. and over.
+
+  * The site content could be understood by children 12 years and over and adults alike. 
+  * Children under 10 years old may struggle with some aspects of terminology and navigation.
+  * The hero images let people of most ages know they are navigating their way around a dancing topic.
+
+#### Dancers and guardian goals are:
+
+1. Navigate way around site easily.
+
+2. Easily follow links to signposted pages.
+
+3. Find the site informative, fun and engaging.
+
+4. Know what the next steps to take are.
+
+5. Easily navigate to the facebook page to follow and interact.
+
+#### Freestyle Fanatics can help dancers meet these goals by:
+
+1. Providing relevant information and links all in one website.
+
+2. Providing a simple and clear navigation bar.
+
+3.  Give dancers information about freestyle dance and relevant associated information.
+
+4. Engaging images to allow dancer to know they have found the site for the 
+    correct genre.
+5. Same theme and layout for all pages.
+
+6. Use a maximum of 3 clicks from start to end goal to minimise cognitive 
+    overload.
+
+    * There is no more than 3 click from one point of the site to the end of the navigation to another part of the site. 
+    * Use of a clear navbar and hyperlinks ensure this.
+
+7. The feel is engaging and informative.
+
+
 
 
 
