@@ -181,6 +181,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
     conveniently move from section to section with ease to gather required information.
   * There are links to external sites that open in new tabs to keep the navigation simple and clear.
 
+  ![mobile device showing website on screen](docs/testing/navbar_screenshot.png "freestyle fanatics device mockup")
+
 2. The main target audeince for this website is dancers aged 12. and over.
 
   * The site content could be understood by children 12 years and over and adults alike. 
