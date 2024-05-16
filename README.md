@@ -7,7 +7,7 @@ Welcome to,
 [View the live project here.](https://gemmabutcher-dev.github.io/freestyle_dance/)
 
 ## Table of Contents
-1. [UX]()
+1. [UX](#ux)
 
   * Project Goals
   * Dancer Goals 
@@ -15,17 +15,17 @@ Welcome to,
   * Design Choices
   * Wireframes
 
-2. [Features](##Features)
+2. [Features](#features)
 
   * Existing Features
   * Features left to implement
 
-3. [Technologies used](##Technologies-Used)
+3. [Technologies used](#technologies-used)
 
   * Languages Used
   * Frameworks, Programs and Libraries Used
 
-4. [Testing](##Testing)
+4. [Testing](#testing)
 
   * Overall Peformance
   * Code Validation
@@ -35,13 +35,13 @@ Welcome to,
   * Testing User Stories from User Experience (UX) Section
   * Further Testing
 
-5. [Deployment](##Deployment)
+5. [Deployment](#deployment)
 
   * GitHub Pages
   * Forking the GitHub Repository
   * Making a Local Clone
 
-6. [Credits](##Credits)
+6. [Credits](#credits)
 
   * Content
   * Media
