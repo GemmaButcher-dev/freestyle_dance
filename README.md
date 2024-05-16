@@ -79,6 +79,7 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Use a maximum of 3 clicks from start to end goal to minimise cognitive 
     overload.
   * The feel is engaging and informative.
+  * Using a Favicon on all pages.
 
 #### User Story
 
@@ -108,6 +109,8 @@ As a current or aspiring freestyle dancer or dancers guardian i need to...
 #### Imagery
 
   * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic energy.
+  * The main imagery will be the hero sections on the index.html and competition.html pages.
+  * There will be a favicon in the browser bar on all pages helping with site identity and branding.
 
 ### Wireframes
 
@@ -218,6 +221,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
   * A clean crisp fully functioning navbar ensures this is achieved.
   * There is a clear crisp footer which is the same across all pages which can be viewed [here](docs/testing/footer_screenshot.png)
+  * The use of a favicon on all pages lets the user know they are still on the correct site.
+  * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload.
 
 2. Easily follow links to signposted pages.
   
@@ -263,9 +268,9 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 2. Providing a simple and clear navigation bar.
 
-  * Upon entering the site there is a clear functioning nav bar at the top of the page with links to the other 
+  * Upon entering the site there is a clear functioning navigation bar at the top of the page with links to the other 
     site pages that are clearly labelled.
-  * The navbar reduces to a "hamburger" icon for mobile and tablet devices maintaining clear navigation.
+  * The navigation bar reduces to a "hamburger" icon for mobile and tablet devices maintaining clear navigation.
 
 3. Give dancers information about freestyle dance and relevant associated information.
   
@@ -278,18 +283,22 @@ A change in hero image on the homepage was made with the same colour theme as i 
   
   * Hero images are used on both the home page and the contact page to allow the user to know they are viewing 
     the correct information and in relation to the relevent genre.
+  * The favicon aids site identity for the user.
 
 5. Same theme and layout for all pages.
 
   * All pages use the same navbar and footer to maintain site identity and theme.
   * The same single column layout is used across all pages in line with site theme. 
   * The same colour scheme and border styling is used for all containers and sections.
+  * The site Favicon is used on all pages.
 
 6. Use a maximum of 3 clicks from start to end goal to minimise cognitive 
     overload.
 
-    * There is no more than 3 click from one point of the site to the end of the navigation to another part of the site. 
+    * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
     * Use of a clear navbar, footer and hyperlinks ensure this.
+    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload  
+      and automatically reducing the need for an additional button or link to.
 
 7. The feel is engaging and informative.
  
