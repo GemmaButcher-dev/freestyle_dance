@@ -169,7 +169,9 @@ The complete site was tested using [Web Aim](https://wave.webaim.org/) and has p
 
 ### Bug Fixes
 
-Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further details.
+  * Bug found where the bootstrap navbar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further   details.
+  * There is a bug on the submit button on the contact form in contact.html. There is an active class that when 
+    the button is clicked it changes colour even if all the required fields are not filled out and the form 'sent'. I have logged this issue with bootstrap as it appears it cant be overridden and is an error at bootstrap. It does not seem to effect the submission of the form itself and is more of an aesthetic and design issue to be rectified.
 
 ### Hero Image Change
 
@@ -192,9 +194,9 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
   * The site content could be understood by children 12 years and over and adults alike. 
   * Children under 10 years old may struggle with some aspects of terminology and navigation.
-  * The hero images let people of most ages know they are navigating their way around a dancing topic.
-  * The clear welcome section below the hero image offers text to reaffirm what the site is about.
-  * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
+  * Hero images let people of most ages know they are navigating their way around a dancing topic.
+  * The clear welcome section below the hero image offers copy to reaffirm what the site is about.
+  * The Youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
     making it appropriate for the intended audience.
 
     ![mobile device showing website on screen](docs/testing/navbar_screenshot.png "freestyle fanatics device mockup")
@@ -222,7 +224,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
     making it appropriate for the intended audience.
   * The decision was taking to change the hero image on the home page to one where the dancer was smiling in 
     order to meet this criteria. The colour theme remains unchanged due to the back ground and image colour remaining the same.
-  * The user can engage with the site user by filling out the contact form on the contact page which can be viewed [here](docs/testing/contact_form_screenshot.png)
+  * The user can engage with the site user by filling out the contact form on the contact page which can be 
+    viewed [here](docs/testing/contact_form_screenshot.png)
 
 4. Know what the next steps to take are.
 
@@ -347,7 +350,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Code
 
   * [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
   * [Google Developer Tools](https://developer.chrome.com/docs/devtools) : For problem solving and managing css overrides. 
 
 ### Content
