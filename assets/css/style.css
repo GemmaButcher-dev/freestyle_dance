@@ -68,7 +68,13 @@ body p {
      color: white;
 }
  
-  /* Special texts/ margins/paddings/allignments */
+ /* carousel */
+
+ .carousel {
+    width: 30%;
+ }
+ 
+  /* iframe */
 
 .comp-vid-container iframe {
     display: block;
