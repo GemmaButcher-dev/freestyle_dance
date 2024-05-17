@@ -116,16 +116,16 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * Mobile first design fully responsive.
   * Hero images on index.html and competition.html.
-  * Navbar and footer used across all pages.
+  * Navigation bar and footer used across all pages.
   * Navbar with toggle button (hamburger) on mobile and tablet devices.
   * Links to external sites.
   * Contact form with submission landing page.
-  * iframe with youtube video with player controls.
+  * iframe with [youtube video](https://youtu.be/Z1R8amv1bpQ?si=4xqCwER4oCRQ4jKu) on cometition page.
   * [Favicon](assets/favicon_images/apple_touch_icon.png) in browser bar.
 
 ### Features Left To Implement
 
-  * A suppliers page with a directory to add functionality for the user.
+  * Suppliers.html page with a directory to add functionality for the user.
   * A downloadable ADFP competition rule book. (Not yet released by the Association. Due December 2024)
 
 ## Technologies Used
