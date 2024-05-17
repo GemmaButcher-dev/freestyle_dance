@@ -71,7 +71,7 @@ Dancers and guardian goals are:
   * Easily navigate to the facebook page to follow and interact.
   * Be able to contact the site owner.
   * To be informed of and able to locate regulatory associations. 
-  * Be able to see a video example of freestyle dancing.
+  * Be able to see a photo and video examples of freestyle dancing.
 
 Freestyle Fanatics can help dancers meet these goals by:
 
@@ -105,7 +105,8 @@ Freestyle Fanatics can help dancers meet these goals by:
 #### Imagery
 
   * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic energy.
-  * The main imagery will be the hero sections on the index.html and competition.html pages.
+  * The initial imagery will be the hero sections on the index.html and competition.html pages.
+  * A image carousel will be located on the homepage to engage and inform the user.
   * There will be a favicon in the browser bar on all pages helping with site identity and branding.
 
 ### Wireframes
@@ -117,10 +118,11 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Mobile first design fully responsive.
   * Hero images on index.html and competition.html.
   * Navigation bar and footer used across all pages.
-  * Navbar with toggle button (hamburger) on mobile and tablet devices.
+  * Navigation bar with toggle button (hamburger) on mobile and tablet devices.
   * Links to external sites.
   * Contact form with submission landing page.
   * iframe with [youtube video](https://youtu.be/Z1R8amv1bpQ?si=4xqCwER4oCRQ4jKu) on cometition page.
+  * Image carousel on index.html homepage.
   * [Favicon](assets/favicon_images/apple_touch_icon.png) in browser bar.
 
 ### Features Left To Implement
@@ -236,6 +238,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The hero images were chosen to meet engagement needs and add an element of fun. 
   * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
     making it appropriate for the intended audience.
+  * The image carousel reinforces that the user is viewing the correct dance genre and adds interactivity with the carousel 
+    and the auto slide feature using bootstraps carousel maintaining user engagement through the page.
   * The decision was made to change the hero image on the home page to one where the dancer was smiling in 
     order to meet this criteria of the site being fun. The colour theme remains unchanged due to the back ground and image colour remaining the same.
   * The user can engage with the site and request further information by filling out the contact form on the contact page which can be 
@@ -246,7 +250,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * Information about what the dance genre is and who can take part is found on index.html.
   * The competition page offers information on what is required to be able to take part in competitions and how 
     to go about it.
-  * External links to the ADFP which lists qualified teachers and respective schools. This link is also found in the footer on all pages.
+  * External links to the ADFP which lists qualified teachers and respective schools. This link is also found in the footer 
+    on all pages.
   * The contact form on the contact page offers users the opportunity to contact the site owner for further information.
 
 5. Easily navigate to the facebook page to follow and interact.
@@ -266,9 +271,10 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * Links to the regulatory association (ADFP) can be found in the footer in all pages and in hyperlinks in the copy where relevant. The association and its 
     abbreviation is explained.
 
-8. Be able to see a video example of freestyle dancing.
+8. Be able to see a photo and video example of freestyle dancing.
 
   * The iframe on the competition.html page is a youtube video of a competition in action showcasing the style and genre of dance and what a competition is like.
+  * The image carousel in the index.html provides a collection of images for the user to view examples of freestyle dancing.
     
 
 #### Freestyle Fanatics can help dancers meet these goals by:
@@ -295,6 +301,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
   
   * Hero images are used on both the home page and the contact page to allow the user to know they are viewing 
     the correct information and content in relation to the relevent dance genre.
+  * The image carousel in the index.html provides a collection of images for the user to view examples of freestyle dancing.
   * The favicon aids site identity for the user.
 
 5. Same theme and layout for all pages.
@@ -315,7 +322,9 @@ A change in hero image on the homepage was made with the same colour theme as i 
 7. The feel is engaging and informative.
  
     * The hero image provies an immediate visual stimulation on both the home page and competition page.
-    * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/testing/iframe_screenshot.png)
+    * The image carousel in the index.html provides engagement for the user and is informative.
+    * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which 
+      offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/testing/iframe_screenshot.png)
     * Information across the site lets the user know what the topic is and how they can become invoved in the 
       dance genre. 
     * The contact form on the contact page offers users the opportunity to contact the site owner for further 
