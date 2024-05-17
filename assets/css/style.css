@@ -98,7 +98,7 @@ footer {
 }
 
 footer h2,
-footer h3{
+footer h3 {
     font-size: medium;
 }
 
@@ -113,6 +113,14 @@ footer h3{
     color: white;
 }
 
-.contact-form-container p{
+.contact-form-container p {
     font-size: large;
+}
+
+  /* Media Queries*/
+
+  @media screen and (max-width:480px) {
+  .carousel-wrapper {
+    width: 70%;
+  }
 }
