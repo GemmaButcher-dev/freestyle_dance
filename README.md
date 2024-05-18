@@ -143,25 +143,25 @@ Freestyle Fanatics can help dancers meet these goals by:
 
 ### Frameworks, Programs and Libraries Used
 
-1. Bootstrap 4.3.1:
+1. [Bootstrap 5.3](https://getbootstrap.com/):
    Bootstrap was used to assist with the responsiveness and styling of the website.
-2. Google Fonts:
+2. [Google Fonts](https://fonts.google.com/):
    Google fonts were used to import the 'Poppins' and 'Roboto' font into the style.css file which is used on all pages throughout the project.
-3. Font Awesome:
+3. [Font Awesome](https://fontawesome.com/):
    Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 4. jQuery:
    jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-5. Git
+5. [Git](https://git-scm.com/):
    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-6. GitHub:
+6. [GitHub](https://github.com/):
    GitHub is used to store the projects code after being pushed from Git.
-7. Balsamiq:
+7. [Balsamiq](https://balsamiq.com/):
    Balsamiq was used to create the wireframes during the design process.
-8. Am i responsive?:
+8. [Am i responsive?](https://ui.dev/amiresponsive):
    Am i reponsive was used to create the device mockup in README.md.
-9. ahrefs:
+9. [ahrefs](https://ahrefs.com/writing-tools/img-alt-text-generator):
    ahrefs was used to help generate alt text for images.
-10. Canva:
+10.[Canva](https://www.canva.com/colors/color-palette-generator/):
    Canva's color pallette generator was used to create a color pallette from the homepage hero image.
 
 ## Testing
@@ -412,7 +412,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Content
 
   * All content was written by the developer.
-  * Canva color pallette picker for generating the brand [color palette](https://www.canva.com/colors/color-palette-generator/)
 
 ### Media
 
