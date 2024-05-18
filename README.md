@@ -13,7 +13,7 @@ Welcome to
   * Dancer Goals 
   * User Stories  
   * Design Choices
-  * Wireframes
+  * [Wireframes](docs/design/wireframes)
 
 2. [Features](#features)
 
@@ -111,6 +111,10 @@ Freestyle Fanatics can help dancers meet these goals by:
 
 ### Wireframes
 
+  * Mobile wireframe can be viewed [here](docs/design/wireframes/mobile_wireframe.png)
+  * Tablet wireframe can be viewed [here](docs/design/wireframes/tablet_wireframe.png)
+  * Desktop wireframe can be viewed [here](docs/design/wireframes/desktop_wireframe.png)
+
 ## Features
 
 ### Existing Features
@@ -121,7 +125,7 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Navigation bar with toggle button (hamburger) on mobile and tablet devices.
   * Links to external sites.
   * Contact form with submission landing page.
-  * iframe with [youtube video](https://youtu.be/Z1R8amv1bpQ?si=4xqCwER4oCRQ4jKu) on cometition page.
+  * iframe with [youtube video](https://youtu.be/Z1R8amv1bpQ?si=4xqCwER4oCRQ4jKu) on competition page.
   * Image carousel on index.html homepage.
   * [Favicon](assets/favicon_images/apple_touch_icon.png) in browser bar.
 
@@ -182,7 +186,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Bug Fixes
 
-  * Bug found where the bootstrap navigation bar would expand but not compress back down. The issue was eventually traced back to the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further details.
+  * Bug found where the bootstrap navigation bar would expand but not compress back down. The issue was eventually traced back to  
+    the js script links at the bottom of the html pages. These have been updated and it now works as it should. The issue can be viewed on [this screenshot](docs/bug_fixes/navbar_bugfix.png) for further details.
   * There is a bug on the submit button on the contact form in contact.html. There is an active class that when 
     the button is clicked it changes colour even if all the required fields are not filled out and the form 'sent'. I have logged this issue with bootstrap as it appears it cant be overridden and is an error at bootstrap. It does not seem to effect the submission of the form itself and is more of an aesthetic and design issue to be rectified.
 
@@ -202,6 +207,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * There are 3 pages each with defined topics that are clear to the user. The user can quickly, easily and 
     conveniently move from section to section with ease to gather required information.
   * There are links to external sites that open in new tabs to keep the navigation simple and clear.
+  * All sections contain headers to help with site navigation and identity.
 
 2. The main target audeince for this website is dancers aged 12. and over.
 
@@ -212,17 +218,19 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The Youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
     making it appropriate for the intended audience.
 
-    ![mobile device showing website on screen](docs/testing/navbar_screenshot.png "freestyle fanatics device mockup")
+    ![mobile device showing website on screen](docs/design/screenshots/navbar.png"freestyle fanatics device mockup")
 
 #### Dancers and guardian goals are:
 
 1. Navigate way around site easily.
 
-  * Upon entering the site there is a  clean, crisp and fully functioning navigation bar that ensures this is achieved.
-  * There is a clear and crisp footer which is the same across all pages which can be viewed [here](docs/testing/footer_screenshot.png)
+  * Upon entering the site there is a  clean, crisp and fully functioning navigation bar that ensures this is achieved.  which can be viewed [here](docs/design/screenshots/navbar.png)
+  * There is a clear and crisp footer which is the same across all pages which can be viewed [here](docs/design/screenshots/footer.png)
   * The use of a favicon on all pages lets the user know they are still navigating arouund the correct site.
-  * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload.
+  * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to 
+    reduce cognitive overload.
   * All links open in a new tab for ease of navigation.
+  * All sections contain headers to help with site navigation and identity.
 
 2. Easily follow links to signposted pages.
   
@@ -233,7 +241,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 3. Find the site informative, fun and engaging.
 
-  * The content is focused on informing what the freestyle dance genre is and who is able to dance for fun or take part in competitions. 
+  * The content is focused on informing what the freestyle dance genre is and who is able to dance for fun or take part in 
+    competitions. 
   * The site offers information on the steps to take in order to compete or dance for fun.
   * The hero images were chosen to meet engagement needs and add an element of fun. 
   * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
@@ -242,8 +251,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
     and the auto slide feature using bootstraps carousel maintaining user engagement through the page.
   * The decision was made to change the hero image on the home page to one where the dancer was smiling in 
     order to meet this criteria of the site being fun. The colour theme remains unchanged due to the back ground and image colour remaining the same.
-  * The user can engage with the site and request further information by filling out the contact form on the contact page which can be 
-    viewed [here](docs/testing/contact_form_screenshot.png)
+  * The user can engage with the site and request further information by filling out the contact form on the contact page which can be viewed [here](docs/design/screenshots/contact_form.png)
 
 4. Know what the next steps to take are to learn to dance or compete.
   
@@ -268,13 +276,13 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 7. To be informed of and able to locate regulatory associations.
 
-  * Links to the regulatory association (ADFP) can be found in the footer in all pages and in hyperlinks in the copy where relevant. The association and its 
-    abbreviation is explained.
+  * Links to the regulatory association (ADFP) can be found in the footer in all pages and in hyperlinks in the copy where relevant. * The association and its abbreviation is explained.
 
 8. Be able to see a photo and video example of freestyle dancing.
 
   * The iframe on the competition.html page is a youtube video of a competition in action showcasing the style and genre of dance and what a competition is like.
   * The image carousel in the index.html provides a collection of images for the user to view examples of freestyle dancing.
+  * These sections contain headers to help with site navigation and identity.
     
 
 #### Freestyle Fanatics can help dancers meet these goals by:
@@ -306,17 +314,17 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 5. Same theme and layout for all pages.
 
-  * All pages use the same navigation bar and footer to maintain site identity and theme.
-  * The same single column layout is used across all pages in line with site theme. 
-  * The same colour scheme and border styling is used for all containers and sections.
-  * The site Favicon is used on all pages.
+   * All pages use the same navigation bar and footer to maintain site identity and theme.
+   * The same single column layout is used across all pages in line with site theme. 
+   * The same colour scheme and border styling is used for all containers and sections.
+   * The site Favicon is used on all pages.
 
-6. Use a maximum of 3 clicks from start to end goal to minimise cognitive 
-    overload.
+6. Use a maximum of 3 clicks from start to end goal to minimise cognitive overload.
 
     * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
     * Use of a clear navigation bar, footer and hyperlinks ensure this.
-    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload  
+    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds  
+      to reduce cognitive overload  
       and automatically reducing the need for an additional button or link to.
 
 7. The feel is engaging and informative.
@@ -324,7 +332,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
     * The hero image provies an immediate visual stimulation on both the home page and competition page.
     * The image carousel in the index.html provides engagement for the user and is informative.
     * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which 
-      offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/testing/iframe_screenshot.png)
+      offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/design/screenshots/iframe.png)
     * Information across the site lets the user know what the topic is and how they can become invoved in the 
       dance genre. 
     * The contact form on the contact page offers users the opportunity to contact the site owner for further 
@@ -333,10 +341,10 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 ### Further Testing
 
-* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-* The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-* A large amount of testing was done to ensure that all pages were linking correctly.
-* Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+  * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+  * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+  * A large amount of testing was done to ensure that all pages were linking correctly.
+  * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Deployment
 
