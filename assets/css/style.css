@@ -73,6 +73,7 @@ body p {
  .carousel-wrapper {
     width: 30%;
     margin: auto;
+    padding-bottom: 15px;
  }
  
   /* iframe */
