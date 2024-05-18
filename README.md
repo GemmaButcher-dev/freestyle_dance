@@ -13,7 +13,7 @@ Welcome to
   * Dancer Goals 
   * User Stories  
   * Design Choices
-  * [Wireframes](docs/design/wireframes)
+  * Wireframes
 
 2. [Features](#features)
 
@@ -60,7 +60,7 @@ The primary goal of Freestyle Fanatics is to provide a hub of all things freesty
 
 #### Dancer Goals
 
-The main target audeince for this website is dancers aged 12. and over.
+The main target audeince for this website is dancers aged 12 and over.
 
 Dancers and guardian goals are:
 
@@ -78,7 +78,7 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Providing relevant information and links all in one website.
   * Providing a simple and clear navigation bar.
   * Give dancers information about freestyle dance and relevant associated information.
-  * Engaging images to allow dancer to know they have found the site for the 
+  * Engaging images and video to allow dancer to know they have found the site for the 
     correct genre.
   * Same theme and layout for all pages.
   * Use a maximum of 3 clicks from start to end goal to minimise cognitive 
@@ -100,11 +100,11 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * The Poppins font will be the font used for the all headings on the website and Sans Serif is to be used as a fallback font should for any reason the Poppins google font not load correctly to the website. Poppins is a crisp clear font that has rounded features that adds flow and creativity whilst having a corporate edge.
 
-  * The Roboto font will be the font used for the other text on the website and Sans Serif is to be used as a fallback font should for any reason the Roboto google font not load correctly to the website. Roboto is a sharper font that has less rounded features than Poppins having more of a corporate edge, complimenting the poppins font with increased ease of readability.
+  * The Roboto font will be the font used for the other text on the website and Sans Serif is to be used as a fallback font should for any reason the Roboto google font not load correctly to the website. Roboto is a sharper font that has less rounded features than Poppins having more of a corporate edge, complimenting the poppins font with increased ease of readability for smaller text.
 
 #### Imagery
 
-  * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic energy.
+  * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic vibe.
   * The initial imagery will be the hero sections on the index.html and competition.html pages.
   * A image carousel will be located on the homepage to engage and inform the user.
   * There will be a favicon in the browser bar on all pages helping with site identity and branding.
@@ -125,9 +125,9 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Navigation bar with toggle button (hamburger) on mobile and tablet devices.
   * Links to external sites.
   * Contact form with submission landing page.
-  * iframe with [youtube video](https://youtu.be/Z1R8amv1bpQ?si=4xqCwER4oCRQ4jKu) on competition page.
+  * iframe with youtube video on competition page.
   * Image carousel on index.html homepage.
-  * [Favicon](assets/favicon_images/apple_touch_icon.png) in browser bar.
+  * Use of Favicon in browser bar.
 
 ### Features Left To Implement
 
@@ -201,13 +201,17 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 1. The primary goal of Freestyle Fanatics is to provide a hub of all things freestyle to all aged 12 - adult with easy and clear navigation with signposting to external sites where necessary. 
   
-  * Upon entering the site there is a clear functioning nav bar at the top of the page with links to the other 
-    site pages that are clearly labelled. There is a clean and crisp hero image lettignthe user know they have found relevant content as a quick glance. 
+  * Upon entering the site there is a clear functioning navigation bar at the top of the page with links to the other 
+    site pages that are clearly labelled. This can be viewed [here](docs/design/screenshots/navbar.png)
+  * There is a clean and crisp hero image letting the user know they have found relevant content as a quick glance. 
   * The clear welcome section below the hero image offers text to reaffirm what the site is about.
   * There are 3 pages each with defined topics that are clear to the user. The user can quickly, easily and 
     conveniently move from section to section with ease to gather required information.
   * There are links to external sites that open in new tabs to keep the navigation simple and clear.
   * All sections contain headers to help with site navigation and identity.
+
+ ![mobile device showing website on screen](docs/design/screenshots/navbar.png "freestyle fanatics device mockup")
+
 
 2. The main target audeince for this website is dancers aged 12. and over.
 
@@ -215,20 +219,17 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * Children under 10 years old may struggle with some aspects of terminology and navigation.
   * Hero images let people of most ages know they are navigating their way around a dancing topic.
   * The clear welcome section below the hero image offers copy to reaffirm what the site is about.
-  * The Youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
-    making it appropriate for the intended audience.
-
-    ![mobile device showing website on screen](docs/design/screenshots/navbar.png"freestyle fanatics device mockup")
+  * The Youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages making it 
+    appropriate for the intended audience. This can be viewed [here](docs/design/screenshots/iframe.png)
 
 #### Dancers and guardian goals are:
 
 1. Navigate way around site easily.
 
-  * Upon entering the site there is a  clean, crisp and fully functioning navigation bar that ensures this is achieved.  which can be viewed [here](docs/design/screenshots/navbar.png)
+  * Upon entering the site there is a clean, crisp and fully functioning navigation bar that ensures this is achieved.
   * There is a clear and crisp footer which is the same across all pages which can be viewed [here](docs/design/screenshots/footer.png)
-  * The use of a favicon on all pages lets the user know they are still navigating arouund the correct site.
-  * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to 
-    reduce cognitive overload.
+  * The use of a favicon (viewed [here](assets/favicon_images/apple_touch_icon.png))on all pages lets the user know they are still navigating around the correct site.
+  * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload.
   * All links open in a new tab for ease of navigation.
   * All sections contain headers to help with site navigation and identity.
 
@@ -236,7 +237,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
   
   * All links to external signposted pages open in new tabs with the _blank attribute. Links clearly
     indicate their function and purpose. 
-  * Links are located in the copy and footer.
+  * Links are located in the copy text and site footer.
 
 
 3. Find the site informative, fun and engaging.
@@ -246,12 +247,13 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The site offers information on the steps to take in order to compete or dance for fun.
   * The hero images were chosen to meet engagement needs and add an element of fun. 
   * The youtube iframe offers a visually stimulating and engaging experience and is appropriate for all ages 
-    making it appropriate for the intended audience.
-  * The image carousel reinforces that the user is viewing the correct dance genre and adds interactivity with the carousel 
-    and the auto slide feature using bootstraps carousel maintaining user engagement through the page.
+    making it appropriate for the intended audience. This can be viewed [here](docs/design/screenshots/iframe.png).
+  * The image carousel (viewed [here](docs/design/screenshots/carousel.png)) reinforces that the user is viewing the correct 
+    dance genre and adds interactivity with the carousel  and the auto slide feature using bootstraps carousel maintaining user engagement through the page.
   * The decision was made to change the hero image on the home page to one where the dancer was smiling in 
     order to meet this criteria of the site being fun. The colour theme remains unchanged due to the back ground and image colour remaining the same.
-  * The user can engage with the site and request further information by filling out the contact form on the contact page which can be viewed [here](docs/design/screenshots/contact_form.png)
+  * The user can engage with the site and request further information by filling out the contact form on the contact page  
+    which can be viewed [here](docs/design/screenshots/contact_form.png)
 
 4. Know what the next steps to take are to learn to dance or compete.
   
@@ -271,16 +273,19 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 6. Be able to contact the site owner.
   
-  * There is a contact form on contact.html page that allows user to contact site owner. Successful submission of the form 
-    will lead to the submission.html page. This page automatically redirects back to the home page after 10 seconds to reduce cognitive overload. 
+  * There is a contact form on contact.html page that allows user to contact site owner. This link is also found in the footer 
+    on all pages. Successful submission of the form will lead to the submission.html page. This page automatically redirects back to the home page after 10 seconds to reduce cognitive overload. 
 
 7. To be informed of and able to locate regulatory associations.
 
-  * Links to the regulatory association (ADFP) can be found in the footer in all pages and in hyperlinks in the copy where relevant. * The association and its abbreviation is explained.
+  * Links to the regulatory association (ADFP) can be found in the footer in all pages and in hyperlinks in the copy where 
+    relevant. 
+  * The association and its abbreviation is explained.
 
 8. Be able to see a photo and video example of freestyle dancing.
 
-  * The iframe on the competition.html page is a youtube video of a competition in action showcasing the style and genre of dance and what a competition is like.
+  * The iframe on the competition.html page is a youtube video of a competition in action showcasing the style and genre of 
+    dance and what a competition is like.
   * The image carousel in the index.html provides a collection of images for the user to view examples of freestyle dancing.
   * These sections contain headers to help with site navigation and identity.
     
@@ -305,11 +310,12 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * External links provided to associations for further information.
   * The contact form on the contact page offers the user the opportunity to contact the site owner.
 
-4. Engaging images to allow dancer to know they have found the site for the correct genre.
+4. Engaging images and video to allow dancer to know they have found the site for the correct genre.
   
   * Hero images are used on both the home page and the contact page to allow the user to know they are viewing 
     the correct information and content in relation to the relevent dance genre.
   * The image carousel in the index.html provides a collection of images for the user to view examples of freestyle dancing.
+  * iframe for youtube video of freestyle dancing is located on the competition page.
   * The favicon aids site identity for the user.
 
 5. Same theme and layout for all pages.
@@ -323,9 +329,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
     * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
     * Use of a clear navigation bar, footer and hyperlinks ensure this.
-    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds  
-      to reduce cognitive overload  
-      and automatically reducing the need for an additional button or link to.
+    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10     seconds to reduce cognitive overload  and automatically reducing the need for an additional button or link to redirect to homepage.
 
 7. The feel is engaging and informative.
  
@@ -344,7 +348,8 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
   * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
   * A large amount of testing was done to ensure that all pages were linking correctly.
-  * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+  * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience 
+    issues.
 
 ## Deployment
 
@@ -398,8 +403,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-  * [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-  * [Google Developer Tools](https://developer.chrome.com/docs/devtools) : For problem solving and managing css overrides. 
+  * [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the 
+    project mainly to make site responsive using the Bootstrap Grid System. Also used for hero image and carousel. text-white and text-black classes used for styling.
+  * [Google Developer Tools](https://developer.chrome.com/docs/devtools) : For problem solving with layout and managing css 
+    overrides.
+  * [ahref](https://ahrefs.com/writing-tools/img-alt-text-generator) : For image alt text.
 
 ### Content
 
@@ -409,9 +417,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Media
 
   * All images are the property of the developer who holds fully copywrite.
-  * Iframe video is the property of youtube.
+  * Iframe video is the property of youtube. original youtube video can be found [here](https://youtu.be/Z1R8amv1bpQ? si=4xqCwER4oCRQ4jKu).
 
 ### Acknowledgements
 
   * My Mentor for continuous helpful feedback.
+  * Cohort Leader Rachel Furlong for her continued support.
   * Tutor support at Code Institute for their support.
