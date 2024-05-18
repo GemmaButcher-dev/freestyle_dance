@@ -253,7 +253,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * The decision was made to change the hero image on the home page to one where the dancer was smiling in 
     order to meet this criteria of the site being fun. The colour theme remains unchanged due to the back ground and image colour remaining the same.
   * The user can engage with the site and request further information by filling out the contact form on the contact page  
-    which can be viewed [here](docs/design/screenshots/contact_form.png)
+    which can be viewed [here](docs/design/screenshots/contact_form.png).
 
 4. Know what the next steps to take are to learn to dance or compete.
   
