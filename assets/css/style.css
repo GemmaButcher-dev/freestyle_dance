@@ -78,6 +78,10 @@ body p {
  
   /* iframe */
 
+.comp-vid-container {
+    padding: 15px 15px 30px 15px;
+}
+
 .comp-vid-container iframe {
     display: block;
     margin: auto;
