@@ -336,7 +336,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
     * The hero image provies an immediate visual stimulation on both the home page and competition page.
     * The image carousel in the index.html provides engagement for the user and is informative.
     * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which 
-      offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/design/screenshots/iframe.png)
+      offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/design/screenshots/iframe.png).
     * Information across the site lets the user know what the topic is and how they can become invoved in the 
       dance genre. 
     * The contact form on the contact page offers users the opportunity to contact the site owner for further 
