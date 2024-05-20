@@ -203,6 +203,8 @@ The results and screenshots are in the table below.
 |Contact   |![screenshot](docs/testing/code_validation/validation_contact.png)    | Passed |
 |Submission|![screenshot](docs/testing/code_validation/validation_submission.png) | Passed |
 |404       |![screenshot](docs/testing/code_validation/validation_404.png)        | Passed | 
+|CSS       |![screenshot](docs/testing/code_validation/validation_css.png)        | Passed |
+
 
 ### Accessibility Testing
 
