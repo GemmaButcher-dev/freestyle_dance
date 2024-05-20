@@ -125,11 +125,15 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Hero images on index.html and competition.html.
   * Navigation bar and footer used across all pages.
   * Navigation bar with toggle button (hamburger) on mobile and tablet devices.
+
   ![image of website navigation bar](docs/design/screenshots/navbar_small.png "freestyle fanatics navigation bar")
+  
   * Links to external sites.
   * Contact form with submission landing page.
   * iframe with youtube video on competition page.
+
   ![mobile device showing website on screen](docs/design/screenshots/iframe.png "freestyle fanatics youtube iframe")
+
   * Image carousel on index.html homepage.
   * Use of Favicon in browser bar.
 
