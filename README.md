@@ -183,7 +183,7 @@ The complete site was tested on the lighthouse facility in Google Developer Tool
 
 | Page | Screenshot | Notes|
 |------|------------|------|
-| Home |
+
 
 
 ### Code Validation
