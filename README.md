@@ -123,7 +123,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   *  The tablet view wireframe can be viewed [here](docs/design/wireframes/tablet_wireframe.png) 
 
-  * Desktop wireframe is shown below.
+  * Desktop home page wireframe is shown below.
   
    ![wireframe](docs/design/wireframes/desktop_wireframe.png)
 
@@ -142,12 +142,12 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * Links to external sites.
   * Contact page with [contact form.](docs/design/screenshots/contact_form.png)
-  * [iframe](docs/design/screenshots/iframe.png) with youtube video on competition page.
+  * iframe with youtube video on competition page.
 
   ![mobile device showing website on screen](docs/design/screenshots/iframe.png)
 
   * Image [carousel](docs/design/screenshots/carousel.png) on index.html homepage.
-  * Use of [Favicon](docs/design/screenshots/favicon_browser.png) in browser bar.
+  * Use of Favicon in browser bar.
 
   ![screenshot of favicon in browser tab](docs/design/screenshots/favicon_browser.png)
 
@@ -157,7 +157,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * 404 page.
 
-  ![mobile device showing website](docs/design/screenshots/submission.png)
+  ![mobile device showing website](docs/design/screenshots/404.png)
 
 ### Features Left To Implement
 
@@ -191,8 +191,8 @@ Freestyle Fanatics can help dancers meet these goals by:
    Am i reponsive was used to create the device mockup in README.md.
 9. [ahrefs](https://ahrefs.com/writing-tools/img-alt-text-generator):
    ahrefs was used to help generate alt text for images.
-10.[Canva](https://www.canva.com/colors/color-palette-generator/):
-   Canva's color pallette generator was used to create a color pallette from the homepage hero image.
+10. [Canva](https://www.canva.com/colors/color-palette-generator/):
+    Canva's color pallette generator was used to create a color pallette from the homepage hero image.
 
 ## Testing
 
