@@ -199,13 +199,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [CSS Results can be viewed here](docs/testing)
 
-| Page     | Screenshot                                                         | Notes                                        |
-|----------|--------------------------------------------------------------------|----------------------------------------------|
-|Home      |![screenshot]()                                                     |                |
-|Competing |![screenshot]()                                                     |                                            |
-|Contact   |![screenshot]()                                                     |                                 |
-|Submission|![screenshot]()                                                     |                            |
-|404       |![screenshot]()                                                     |                                 | 
+| Page     | Screenshot                                                           | Notes  |
+|----------|----------------------------------------------------------------------|--------|
+|Home      |![screenshot](docs/testing/code_validation/validation_home.png)       | Passed |
+|Competing |![screenshot](docs/testing/code_validation/validation_competition.png)| Passed |
+|Contact   |![screenshot](docs/testing/code_validation/validation_contact.png)    | Passed |
+|Submission|![screenshot](docs/testing/code_validation/validation_submission.png) | Passed |
+|404       |![screenshot](docs/testing/code_validation/validation_404.png)        | Passed | 
 
 ### Accessibility Testing
 
