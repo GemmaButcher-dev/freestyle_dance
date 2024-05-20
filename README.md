@@ -229,8 +229,8 @@ The results and screenshots are in the table below.
 
   * The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](docs/testing/webaim.png).
   * Some issues were created using the jumbotron to create a hero section. For some reason the only way i could 
-    create the hero image with the jumbotron in front was to use a background images in the jumbotron div css. Whilst this is not best practice for accessibility it has not impacted the score for accessibility which is 100%. If i were using the image in the HTML i would add an alt tag to the image to make it accessible. 
-  * Testing on all pages also carried out on lighthouse developer tools see above table.
+    create the hero image with the jumbotron in front was to use a background images in the jumbotron div css. Whilst this is not best practice for accessibility it has not impacted the score for accessibility which is 100%. This is likley linked to the fact that jumbotrons are not in the latest version of bootstrap, which overall i found to be less problematic, so proceeded to make this compromise. When using other images in the HTML i have added alt tags to the images to make them accessible. 
+  * Testing on all pages also carried out on lighthouse developer tools see above table in overall performance section.
 
 ### Bug Fixes
 
