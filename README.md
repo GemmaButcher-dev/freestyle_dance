@@ -199,6 +199,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [CSS Results can be viewed here](docs/testing)
 
+| Page     | Screenshot                                                         | Notes                                        |
+|----------|--------------------------------------------------------------------|----------------------------------------------|
+|Home      |![screenshot]()                                                     |                |
+|Competing |![screenshot]()                                                     |                                            |
+|Contact   |![screenshot]()                                                     |                                 |
+|Submission|![screenshot]()                                                     |                            |
+|404       |![screenshot]()                                                     |                                 | 
+
 ### Accessibility Testing
 
   * The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](docs/testing/webaim.png).
