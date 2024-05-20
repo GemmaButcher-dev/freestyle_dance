@@ -60,7 +60,7 @@ The primary goal of Freestyle Fanatics is to provide a hub of all things freesty
 
 #### Dancer Goals
 
-The main target audeince for this website is dancers aged 12 and over.
+The main target audeince for this website is dancers aged 12 and over and their guardians.
 
 Dancers and guardian goals are:
 
@@ -261,7 +261,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
  ![mobile device showing website on screen](docs/design/screenshots/navbar.png)
 
 
-2. The main target audeince for this website is dancers aged 12 and over.
+2. The main target audience for this website is dancers aged 12 and over and their guardians.
 
   * The site content could be understood by children 12 years and over and adults alike. 
   * Children under 10 years old may struggle with some aspects of terminology and navigation.
@@ -368,26 +368,26 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
 5. Same theme and layout for all pages.
 
-   * All pages use the same navigation bar and footer to maintain site identity and theme.
-   * The same single column layout is used across all pages in line with site theme. 
-   * The same colour scheme and border styling is used for all containers and sections.
-   * The site Favicon is used on all pages.
+  * All pages use the same navigation bar and footer to maintain site identity and theme.
+  * The same single column layout is used across all pages in line with site theme. 
+  * The same colour scheme and border styling is used for all containers and sections.
+  * The site Favicon is used on all pages.
 
 6. Use a maximum of 3 clicks from start to end goal to minimise cognitive overload.
 
-    * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
-    * Use of a clear navigation bar, footer and hyperlinks ensure this.
-    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload  and automatically reducing the need for an additional button or link to redirect to homepage.
+  * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
+  * Use of a clear navigation bar, footer and hyperlinks ensure this.
+  * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload  and automatically reducing the need for an additional button or link to redirect to homepage.
 
 7. The feel is engaging and informative.
  
-    * The hero image provies an immediate visual stimulation on both the home page and competition page.
-    * The image carousel in the index.html provides engagement for the user and is informative.
-    * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which 
+  * The hero image provies an immediate visual stimulation on both the home page and competition page.
+  * The image carousel in the index.html provides engagement for the user and is informative.
+  * There is a fully responsive youtube iframe video of a freestyle competiton performance on the competition page which 
       offers engaging visual and audio stimulation that the users has full control over at all times. An example of this is viewed [here](docs/design/screenshots/iframe.png).
-    * Information across the site lets the user know what the topic is and how they can become invoved in the 
+  * Information across the site lets the user know what the topic is and how they can become invoved in the 
       dance genre. 
-    * The contact form on the contact page offers users the opportunity to contact the site owner for further 
+  * The contact form on the contact page offers users the opportunity to contact the site owner for further 
       information.
 
 
