@@ -2,7 +2,7 @@ Welcome to
 
 # 🏆 Freestyle Fanatics 🏆
 
-![Electronic devices showing website on screen: computer, tablet, phone.](docs/design/freestyle_mockup.png "freestyle fanatics device mockup")
+![Electronic devices showing website on screen: computer, tablet, phone.](docs/design/freestyle_mockup.png)
 
 [View the live project here.](https://gemmabutcher-dev.github.io/freestyle_dance/)
 
@@ -94,7 +94,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * Four colours will be used in addition to black and white throughout the site to create a theme. The colour pallette was picked from the hero image on the home page. This should carry the site identity across all pages.
 
-![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](docs/design/color_palette.png "color pallette freestyle fanatics")
+![A young girl performing a dance routine on stage, dressed in a sparkling blue costume with feathered accessories, surrounded by an attentive audience.](docs/design/color_palette.png)
 
 #### Typography
 
@@ -107,18 +107,27 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic vibe.
   * The initial imagery will be the hero sections on the index.html and competition.html pages.
 
-  ![mobile device showing website on screen](docs/design/screenshots/navbar.png "freestyle fanatics hero image")
+  ![mobile device showing website on screen](docs/design/screenshots/navbar.png)
 
   * A image carousel will be located on the homepage to engage and inform the user.
   * There will be a favicon in the browser bar on all pages helping with site identity and branding.
 
-  ![desktop browser bar](docs/design/screenshots/favicon_browser.png "freestyle fanatics favicon browser")
+  ![desktop browser bar](docs/design/screenshots/favicon_browser.png)
 
 ### Wireframes
 
-  * Mobile wireframe can be viewed [here](docs/design/wireframes/mobile_wireframe.png)
-  * Tablet wireframe can be viewed [here](docs/design/wireframes/tablet_wireframe.png)
-  * Desktop wireframe can be viewed [here](docs/design/wireframes/desktop_wireframe.png)
+  * There are 3 wireframes for the home page showing how the page will look on different devices. All other pages have been designed
+    in mobile view. The mobile wireframe is shown below.
+
+  ![wireframe](docs/design/wireframes/mobile_wireframe.png)
+
+  *  The tablet view wireframe can be viewed [here](docs/design/wireframes/tablet_wireframe.png) 
+
+  * Desktop wireframe is shown below.
+  
+   ![wireframe](docs/design/wireframes/desktop_wireframe.png)
+
+  * All other wireframes for all pages can be viewed [here](docs/design/wireframes). 
 
 ## Features
 
@@ -129,13 +138,13 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Navigation bar and footer used across all pages.
   * Navigation bar with toggle button (hamburger) on mobile and tablet devices.
 
-  ![image of website navigation bar](docs/design/screenshots/navbar_small.png "freestyle fanatics navigation bar")
+  ![image of website navigation bar](docs/design/screenshots/navbar_small.png)
 
   * Links to external sites.
   * Contact form with submission landing page.
   * iframe with youtube video on competition page.
 
-  ![mobile device showing website on screen](docs/design/screenshots/iframe.png "freestyle fanatics youtube iframe")
+  ![mobile device showing website on screen](docs/design/screenshots/iframe.png)
 
   * Image carousel on index.html homepage.
   * Use of Favicon in browser bar.
@@ -239,7 +248,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
   * There are links to external sites that open in new tabs to keep the navigation simple and clear.
   * All sections contain headers to help with site navigation and identity.
 
- ![mobile device showing website on screen](docs/design/screenshots/navbar.png "freestyle fanatics device mockup")
+ ![mobile device showing website on screen](docs/design/screenshots/navbar.png)
 
 
 2. The main target audeince for this website is dancers aged 12. and over.
@@ -358,7 +367,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
 
     * There is no more than 3 clicks from one point of the site to the end of the navigation to another part of the site. 
     * Use of a clear navigation bar, footer and hyperlinks ensure this.
-    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10     seconds to reduce cognitive overload  and automatically reducing the need for an additional button or link to redirect to homepage.
+    * Upon submission of the contact form the submission confirmation page automtically redirects to the hompeage after 10 seconds to reduce cognitive overload  and automatically reducing the need for an additional button or link to redirect to homepage.
 
 7. The feel is engaging and informative.
  
