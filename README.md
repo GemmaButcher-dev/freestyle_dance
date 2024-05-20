@@ -204,7 +204,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   * The complete site was tested using [Web Aim](https://wave.webaim.org/) and has passed. This can be [viewed here](docs/testing/webaim.png).
   * Some issues were created using the jumbotron to create a hero section. For some reason the only way i could 
     create the hero image with the jumbotron in front was to use a background images in the jumbotron div css. Whilst this is not best practice for accessibility it has not impacted the score for accessibility which is 100%. If i were using the image in the HTML i would add an alt tag to the image to make it accessible. 
-  * Testing also carried out on lighthouse developer tools.
+  * Testing on all pages also carried out on lighthouse developer tools see above table.
 
 ### Bug Fixes
 
