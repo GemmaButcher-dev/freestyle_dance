@@ -179,14 +179,15 @@ Freestyle Fanatics can help dancers meet these goals by:
 
 ### Overall Peformance
 
-The complete site was tested on the lighthouse facility in Google Developer Tools to assess the overall performance of the site. The site meets the pass criteria and you can see the results [here](docs/testing/lighthouse_test.png)
+The complete site was tested on the lighthouse facility in Google Developer Tools to assess the overall performance of the site. The site meets the pass criteria and you can see the results in the below table.
 
-| Page     | Screenshot                                          | Notes|
-|----------|-----------------------------------------------------|------|
-|Home      |docs/testing/lighthouse/lighthouse_home.png          |      |
-|Competing |docs/testing/lighthouse/lighthouse_competitions.png  |      |
-|Contact   |docs/testing/lighthouse/lighthouse_contact.png       |      |
-|Submission|                                                     |      |
+| Page     | Screenshot                                                         | Notes                                        |
+|----------|--------------------------------------------------------------------|----------------------------------------------|
+|Home      |![screenshot](docs/testing/lighthouse/lighthouse_home.png)          |Some warnings for performance.                |
+|Competing |![screenshot](docs/testing/lighthouse/lighthouse_competitions.png)  |Accessibility 100%. Performance could improve.|
+|Contact   |![screenshot](docs/testing/lighthouse/lighthouse_contact.png)       |Good overall.                                 |
+|Submission|![screenshot](docs/testing/lighthouse/lighthouse_submission.png)    |Very good overall.                            |
+|404       |![screenshot](docs/testing/lighthouse/lighthouse_404.png)           |Good overall.                                 |          
 
 
 
