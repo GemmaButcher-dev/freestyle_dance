@@ -117,7 +117,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 ### Wireframes
 
   * There are 3 wireframes for the home page showing how the page will look on different devices. All other pages have been designed
-    in mobile view. The mobile wireframe is shown below.
+    in mobile view. The mobile home wireframe is shown below.
 
   ![wireframe](docs/design/wireframes/mobile_wireframe.png)
 
@@ -134,20 +134,30 @@ Freestyle Fanatics can help dancers meet these goals by:
 ### Existing Features
 
   * Mobile first design fully responsive.
-  * Hero images on index.html and competition.html.
-  * Navigation bar and footer used across all pages.
+  * [Hero images](docs/design/screenshots/navbar.png) on index.html and competition.html.
+  * [Navigation bar](docs/design/screenshots/navbar.png) and [footer](docs/design/screenshots/footer.png) used across all pages.
   * Navigation bar with toggle button (hamburger) on mobile and tablet devices.
 
   ![image of website navigation bar](docs/design/screenshots/navbar_small.png)
 
   * Links to external sites.
-  * Contact form with submission landing page.
-  * iframe with youtube video on competition page.
+  * Contact page with [contact form.](docs/design/screenshots/contact_form.png)
+  * [iframe](docs/design/screenshots/iframe.png) with youtube video on competition page.
 
   ![mobile device showing website on screen](docs/design/screenshots/iframe.png)
 
-  * Image carousel on index.html homepage.
-  * Use of Favicon in browser bar.
+  * Image [carousel](docs/design/screenshots/carousel.png) on index.html homepage.
+  * Use of [Favicon](docs/design/screenshots/favicon_browser.png) in browser bar.
+
+  ![screenshot of favicon in browser tab](docs/design/screenshots/favicon_browser.png)
+
+  * Contact form submission landing page that redirects to homepage after 10 seconds.
+
+  ![mobile device showing website](docs/design/screenshots/submission.png)
+
+  * 404 page.
+
+  ![mobile device showing website](docs/design/screenshots/submission.png)
 
 ### Features Left To Implement
 
@@ -251,7 +261,7 @@ A change in hero image on the homepage was made with the same colour theme as i 
  ![mobile device showing website on screen](docs/design/screenshots/navbar.png)
 
 
-2. The main target audeince for this website is dancers aged 12. and over.
+2. The main target audeince for this website is dancers aged 12 and over.
 
   * The site content could be understood by children 12 years and over and adults alike. 
   * Children under 10 years old may struggle with some aspects of terminology and navigation.
