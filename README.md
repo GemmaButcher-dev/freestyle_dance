@@ -111,7 +111,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * A image carousel will be located on the homepage to engage and inform the user.
   * There will be a favicon in the browser bar on all pages helping with site identity and branding.
-  
+
   ![desktop browser bar](docs/design/screenshots/favicon_browser.png "freestyle fanatics favicon browser")
 
 ### Wireframes
@@ -180,6 +180,11 @@ Freestyle Fanatics can help dancers meet these goals by:
 ### Overall Peformance
 
 The complete site was tested on the lighthouse facility in Google Developer Tools to assess the overall performance of the site. The site meets the pass criteria and you can see the results [here](docs/testing/lighthouse_test.png)
+
+| Page | Screenshot | Notes|
+|------|------------|------|
+| Home |
+
 
 ### Code Validation
 
