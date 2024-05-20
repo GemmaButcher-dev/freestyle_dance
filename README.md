@@ -106,6 +106,7 @@ Freestyle Fanatics can help dancers meet these goals by:
 
   * Imagery is key to immediately letting the user know they are viewing the correct dance genre and engage quickly and convey a positive and energetic vibe.
   * The initial imagery will be the hero sections on the index.html and competition.html pages.
+  ![mobile device showing website on screen](docs/design/screenshots/navbar.png "freestyle fanatics hero image")
   * A image carousel will be located on the homepage to engage and inform the user.
   * There will be a favicon in the browser bar on all pages helping with site identity and branding.
 
@@ -126,6 +127,7 @@ Freestyle Fanatics can help dancers meet these goals by:
   * Links to external sites.
   * Contact form with submission landing page.
   * iframe with youtube video on competition page.
+  ![mobile device showing website on screen](docs/design/screenshots/iframe.png "freestyle fanatics youtube iframe")
   * Image carousel on index.html homepage.
   * Use of Favicon in browser bar.
 
